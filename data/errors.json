@@ -1,0 +1,11 @@
+{
+ "date": "2026-09-21",
+ "errors": [
+  {
+   "company": "Owner.com",
+   "ats": "lever",
+   "slug": "owner",
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/owner?mode=json"
+  }
+ ]
+}

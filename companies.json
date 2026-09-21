@@ -1,0 +1,542 @@
+[
+  {
+    "company": "Addepar",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "addepar1"
+  },
+  {
+    "company": "Affirm",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "affirm"
+  },
+  {
+    "company": "Airwallex",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "airwallex"
+  },
+  {
+    "company": "Alloy",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "alloy"
+  },
+  {
+    "company": "Betterment",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "betterment"
+  },
+  {
+    "company": "Bill.com",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "billcom"
+  },
+  {
+    "company": "Bluevine",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "bluevineus"
+  },
+  {
+    "company": "Brex",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "brex"
+  },
+  {
+    "company": "Carta",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "carta"
+  },
+  {
+    "company": "Column",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "column"
+  },
+  {
+    "company": "Current",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "current81"
+  },
+  {
+    "company": "Cybrid",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "cybrid"
+  },
+  {
+    "company": "Finix",
+    "category": "fintech",
+    "ats": "lever",
+    "slug": "finix"
+  },
+  {
+    "company": "Highnote",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "highnote"
+  },
+  {
+    "company": "Lithic",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "lithic"
+  },
+  {
+    "company": "Marqeta",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "marqeta-inc"
+  },
+  {
+    "company": "Melio",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "melio"
+  },
+  {
+    "company": "Mercury",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "mercury"
+  },
+  {
+    "company": "Modern Treasury",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "moderntreasury"
+  },
+  {
+    "company": "Novo",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "novo"
+  },
+  {
+    "company": "Orb",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "orb"
+  },
+  {
+    "company": "Plaid",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "plaid"
+  },
+  {
+    "company": "Rainforest",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "rainforest-pay"
+  },
+  {
+    "company": "Ramp",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "ramp"
+  },
+  {
+    "company": "Relay",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "relayfi"
+  },
+  {
+    "company": "Rho",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "rho"
+  },
+  {
+    "company": "Robinhood",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "robinhood"
+  },
+  {
+    "company": "Sardine",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "sardine"
+  },
+  {
+    "company": "Stripe",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "stripe"
+  },
+  {
+    "company": "Tipalti",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "tipaltisolutions"
+  },
+  {
+    "company": "Toast",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "toast"
+  },
+  {
+    "company": "Unit",
+    "category": "fintech",
+    "ats": "ashby",
+    "slug": "unit"
+  },
+  {
+    "company": "Wealthfront",
+    "category": "fintech",
+    "ats": "lever",
+    "slug": "wealthfront"
+  },
+  {
+    "company": "Zuora",
+    "category": "fintech",
+    "ats": "greenhouse",
+    "slug": "zuora"
+  },
+  {
+    "company": "Ascend",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "ascend21"
+  },
+  {
+    "company": "At-Bay",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "atbayjobs"
+  },
+  {
+    "company": "Branch Insurance",
+    "category": "insurtech",
+    "ats": "ashby",
+    "slug": "branchinsurance"
+  },
+  {
+    "company": "Coalition",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "coalition"
+  },
+  {
+    "company": "Counterpart",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "counterpart"
+  },
+  {
+    "company": "Ethos",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "ethoslife"
+  },
+  {
+    "company": "Federato",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "federato"
+  },
+  {
+    "company": "Harper",
+    "category": "insurtech",
+    "ats": "ashby",
+    "slug": "harperinsure"
+  },
+  {
+    "company": "Hi Marley",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "himarley"
+  },
+  {
+    "company": "Hippo",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "hippo70"
+  },
+  {
+    "company": "Insurify",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "insurify"
+  },
+  {
+    "company": "Jerry",
+    "category": "insurtech",
+    "ats": "ashby",
+    "slug": "jerry.ai"
+  },
+  {
+    "company": "Kin Insurance",
+    "category": "insurtech",
+    "ats": "ashby",
+    "slug": "kin"
+  },
+  {
+    "company": "Ladder",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "ladder33"
+  },
+  {
+    "company": "Lemonade",
+    "category": "insurtech",
+    "ats": "ashby",
+    "slug": "lemonade"
+  },
+  {
+    "company": "Next Insurance",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "nextinsurance66"
+  },
+  {
+    "company": "Openly",
+    "category": "insurtech",
+    "ats": "ashby",
+    "slug": "openly"
+  },
+  {
+    "company": "Pie Insurance",
+    "category": "insurtech",
+    "ats": "greenhouse",
+    "slug": "pieinsurance"
+  },
+  {
+    "company": "1Password",
+    "category": "rails",
+    "ats": "ashby",
+    "slug": "1password"
+  },
+  {
+    "company": "Buildkite",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "buildkite"
+  },
+  {
+    "company": "Calendly",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "calendly"
+  },
+  {
+    "company": "Chime",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "chime"
+  },
+  {
+    "company": "Coinbase",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "coinbase"
+  },
+  {
+    "company": "Doximity",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "doximity"
+  },
+  {
+    "company": "Figma",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "figma"
+  },
+  {
+    "company": "Fleetio",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "fleetio"
+  },
+  {
+    "company": "GitLab",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "gitlab"
+  },
+  {
+    "company": "Gusto",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "gusto"
+  },
+  {
+    "company": "Instacart",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "instacart"
+  },
+  {
+    "company": "Intercom",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "intercom"
+  },
+  {
+    "company": "Kit (ConvertKit)",
+    "category": "rails",
+    "ats": "ashby",
+    "slug": "kit"
+  },
+  {
+    "company": "Linear",
+    "category": "rails",
+    "ats": "ashby",
+    "slug": "linear"
+  },
+  {
+    "company": "Notion",
+    "category": "rails",
+    "ats": "ashby",
+    "slug": "notion"
+  },
+  {
+    "company": "Sourcegraph",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "sourcegraph91"
+  },
+  {
+    "company": "Stitch Fix",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "stitchfix"
+  },
+  {
+    "company": "Vercel",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "vercel"
+  },
+  {
+    "company": "Webflow",
+    "category": "rails",
+    "ats": "greenhouse",
+    "slug": "webflow"
+  },
+  {
+    "company": "Zapier",
+    "category": "rails",
+    "ats": "ashby",
+    "slug": "zapier"
+  },
+  {
+    "company": "Boulevard",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "boulevard"
+  },
+  {
+    "company": "Brightwheel",
+    "category": "vertical-saas",
+    "ats": "ashby",
+    "slug": "brightwheel"
+  },
+  {
+    "company": "Headway",
+    "category": "vertical-saas",
+    "ats": "ashby",
+    "slug": "headway"
+  },
+  {
+    "company": "Housecall Pro",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "housecall"
+  },
+  {
+    "company": "Huckleberry",
+    "category": "vertical-saas",
+    "ats": "lever",
+    "slug": "Huckleberrylabs"
+  },
+  {
+    "company": "Included Health",
+    "category": "vertical-saas",
+    "ats": "lever",
+    "slug": "includedhealth"
+  },
+  {
+    "company": "Jobber",
+    "category": "vertical-saas",
+    "ats": "ashby",
+    "slug": "jobber"
+  },
+  {
+    "company": "Justworks",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "justworks"
+  },
+  {
+    "company": "Mindbody",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "mindbody"
+  },
+  {
+    "company": "Owner.com",
+    "category": "vertical-saas",
+    "ats": "lever",
+    "slug": "owner"
+  },
+  {
+    "company": "Oyster",
+    "category": "vertical-saas",
+    "ats": "ashby",
+    "slug": "oyster"
+  },
+  {
+    "company": "Podium",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "podium81"
+  },
+  {
+    "company": "Procare",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "procaresolutions"
+  },
+  {
+    "company": "Remote.com",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "remotecom"
+  },
+  {
+    "company": "Signifyd",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "signifyd95"
+  },
+  {
+    "company": "SimplePractice",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "simplepractice55"
+  },
+  {
+    "company": "Weave",
+    "category": "vertical-saas",
+    "ats": "ashby",
+    "slug": "weave"
+  },
+  {
+    "company": "Zocdoc",
+    "category": "vertical-saas",
+    "ats": "greenhouse",
+    "slug": "zocdoc"
+  }
+]

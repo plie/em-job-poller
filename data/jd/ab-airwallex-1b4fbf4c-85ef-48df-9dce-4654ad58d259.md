@@ -10,22 +10,15 @@ Airwallex is the only unified payments and financial platform for global busines
 
 Proudly founded in Melbourne, we have a team of over 2,300 of the brightest and most innovative people in tech across 27 offices around the globe. Valued at US$11 billion and backed by world-leading investors including T. Rowe Price, Visa, Mastercard, Robinhood Ventures, Sequoia, Salesforce Ventures, DST Global, and Lone Pine Capital, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.
 
- 
-
-
 ATTRIBUTES WE VALUE
 
 We hire successful builders with founder-like energy who want real impact, accelerated learning, and true ownership. You bring strong role-related expertise and sharp thinking, and you’re motivated by our mission and operating principles https://www.airwallex.com/us/operating-principles. You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor.
 
 You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end-to-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next.
 
- 
-
 The GTPN (Global Treasury and Payment Network) Team is at the heart of Airwallex’s payment infrastructure, specializing in expanding the coverage of Airwallex’s global treasury and payment network, enhancing its capabilities and user experience, and provisioning innovative payment products grounded in a robust financial infrastructure. With the ongoing expansion of our global presence, we seek a highly accomplished and motivated Engineering Director to assume leadership of this dynamic team. 
 
 While you are a technically strong engineer who is still passionate about engineering, your leadership skills, product thinking, and business acumen are what really set you apart. You will be accountable for the overall quality and delivery of multiple engineering streamlines. You will be the one clearing road blockers, providing context and guidance to the teams, and will know when to escalate. This role will work with key stakeholders across the globe and will manage all engineers in the GTPN team to define the tech vision of the business domain and build products that not only meet but exceed our customers' expectations. 
-
-
 
 Why Join Us 
 
@@ -34,8 +27,6 @@ Why Join Us 
 ● Grow With Us: At Airwallex, we're committed to your professional development. You'll have opportunities to learn, grow, and shape your career path in a fast-paced, innovative environment. 
 
 ● Collaborate With the Best: Work with a team of talented and passionate individuals who are driven by the desire to create something extraordinary. 
-
-
 
 What You’ll Do: 
 
@@ -46,8 +37,6 @@ What You’ll Do: 
 ● Understand and Empathize: Dive deep into our customers' needs and challenges. Your good product sense will enable you to design and implement solutions that truly resonate with our users. 
 
 ● Measure and Optimize: Leverage data to drive decisions. Your keen data sense will help you measure the success of our products and identify opportunities for optimization and growth. 
-
-
 
 Who You Are: 
 
@@ -69,15 +58,11 @@ Who You Are: 
 
 ● Efficient and Prioritization-Savvy: You excel at prioritizing tasks, which enables you to manage your workload effectively while maintaining high standards of quality. This skill ensures that critical project components receive the attention they need without sacrificing overall progress.
 
-
 APPLICANT SAFETY POLICY: FRAUD AND THIRD-PARTY RECRUITERS
 
 To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @airwallex.com http://airwallex.com email address. Please apply only through careers.airwallex.com http://careers.airwallex.com or our official LinkedIn page.
 
-Airwallex does not accept unsolicited resumes from search firms/recruiters.  Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s).  Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.
-
-
-
+Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.
 
 EQUAL OPPORTUNITY
 

@@ -4,29 +4,47 @@
 - location: Remote - USA
 - captured: 2026-09-22
 ---
-<div class="content-intro"><p>Ready to do the most impactful work of your career? At&nbsp;<a href="https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”&nbsp;<a href="https://www.coinbase.com/careers">learn more about working at Coinbase</a>.</p></div><p>As a Senior Engineering Manager on the Core Automation team within the <a href="https://www.coinbase.com/careers/product-groups" target="_blank">Platform</a> group, you'll lead the engineering organization building Agentic AI systems that are transforming how Coinbase operates. This team is reimagining compliance and customer support processes for a fully AI-driven world, designing intelligent agents, orchestration frameworks, and guardrail systems that improve compliance posture and customer experience at scale. You'll build and grow multiple engineering teams, set the technical direction for production AI systems, and partner with Compliance and Operations leadership to deliver automation that creates measurable business impact.</p>
-<p><strong>What you’ll do:</strong></p>
-<ul>
-<li>Build, hire, and grow a high-performing engineering organization, coaching managers and senior engineers on technical leadership, career development, and AI-first engineering practices</li>
-<li>Set the technical vision and multi-quarter roadmap for Core Automation's Agentic AI systems, partnering with Compliance, Operations, and Product leadership to prioritize the highest-impact automation opportunities</li>
-<li>Drive architecture and delivery of production LLM-based systems with rigorous guardrails, grounding, and measurement, ensuring AI agents are reliable, auditable, and compliant</li>
-<li>Lead multiple parallel engineering initiatives across compliance automation domains, maintaining high delivery velocity while ensuring system correctness and service quality</li>
-<li>Establish engineering standards, code review practices, and AI adoption frameworks that raise the quality bar and accelerate the team's ability to ship production AI systems</li>
-</ul>
-<p><strong>Required Skills and Experience:</strong></p>
-<ul>
-<li>10+ years in software engineering with at least 5 years of engineering management experience, including 2+ years managing managers and building teams from the ground up</li>
-<li>Proven track record shipping LLM-based or Agentic AI applications to production, including experience with grounding, hallucination reduction, guardrails, and AI system evaluation</li>
-<li>Deep technical fluency in distributed systems, cloud-native architecture, and modern AI/ML infrastructure, with hands-on ability to review code, lead architecture decisions, and guide system design</li>
-<li>Demonstrated success leading cross-functional engineering initiatives in ambiguous, fast-moving domains, translating high-level strategic goals into executable roadmaps with clear milestones</li>
-<li>Experience in compliance, regulatory technology, customer support automation, or financial crimes domains</li>
-<li>Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.</li>
-</ul><div class="content-pay-transparency"><div class="pay-input"><div class="description"><p><strong>Pay Transparency Notice:</strong><strong><em> </em></strong>Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)).&nbsp;</p>
-<p>&nbsp;</p></div><div class="title">Annual base salary range (excluding equity and bonus):</div><div class="pay-range"><span>$253,895</span><span class="divider">&mdash;</span><span>$298,700 USD</span></div></div></div><div class="content-conclusion"><ul>
-<li style="font-style: italic; font-size: 8pt;"><strong><em>Application Limit: </em></strong>Candidates may submit a maximum of 3 applications within a 6-month period.</li>
-<li style="font-style: italic; font-size: 8pt;"><span style="font-size: 8pt;"><em><strong>Equal Opportunity Employer: </strong>Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws.</em></span></li>
-<li style="font-style: italic; font-size: 8pt;"><span style="font-size: 8pt;"><em><strong>US Applicants: </strong>View<a href="https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf"> Employee Rights</a>,<a href="https://www.eeoc.gov/sites/default/files/2023-06/22-088_EEOC_KnowYourRights6.12.pdf"> Know Your Rights</a>, and<a href="https://static-assets.coinbase.com/e-verify.pdf"> E-Verify</a> Notice of Participation.</em></span></li>
-<li style="font-style: italic; font-size: 8pt;"><span style="font-size: 8pt;"><em><strong>Accommodations: </strong>If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com.&nbsp;Need screen reading technology?<a href="https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn"> Click here</a> to download a free compatible screen reader and view the<a href="http://www.chromevox.com/tutorial/"><strong> </strong>tutorial</a>.</em></span></li>
-<li style="font-style: italic; font-size: 8pt;"><span style="font-size: 8pt;"><em><strong>Data Privacy &amp; Arbitration: </strong>By submitting your application, you agree to our<a href="https://www.coinbase.com/legal/applicant_privacy_notice"> Candidate Privacy Notice</a>. US applicants: By submitting your application, you agree to<a href="https://www.coinbase.com/legal/application-arbitration-agreement"> Arbitration of Disputes</a>.<br></em></span></li>
-</ul>
-<div id="fortidlp-input-element-parent"></div></div>
+Ready to do the most impactful work of your career? At  Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it’s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for "good enough," you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called “surges.”  learn more about working at Coinbase .
+
+ As a Senior Engineering Manager on the Core Automation team within the Platform group, you'll lead the engineering organization building Agentic AI systems that are transforming how Coinbase operates. This team is reimagining compliance and customer support processes for a fully AI-driven world, designing intelligent agents, orchestration frameworks, and guardrail systems that improve compliance posture and customer experience at scale. You'll build and grow multiple engineering teams, set the technical direction for production AI systems, and partner with Compliance and Operations leadership to deliver automation that creates measurable business impact.
+
+ What you’ll do: 
+
+ Build, hire, and grow a high-performing engineering organization, coaching managers and senior engineers on technical leadership, career development, and AI-first engineering practices
+
+ Set the technical vision and multi-quarter roadmap for Core Automation's Agentic AI systems, partnering with Compliance, Operations, and Product leadership to prioritize the highest-impact automation opportunities
+
+ Drive architecture and delivery of production LLM-based systems with rigorous guardrails, grounding, and measurement, ensuring AI agents are reliable, auditable, and compliant
+
+ Lead multiple parallel engineering initiatives across compliance automation domains, maintaining high delivery velocity while ensuring system correctness and service quality
+
+ Establish engineering standards, code review practices, and AI adoption frameworks that raise the quality bar and accelerate the team's ability to ship production AI systems
+
+ Required Skills and Experience: 
+
+ 10+ years in software engineering with at least 5 years of engineering management experience, including 2+ years managing managers and building teams from the ground up
+
+ Proven track record shipping LLM-based or Agentic AI applications to production, including experience with grounding, hallucination reduction, guardrails, and AI system evaluation
+
+ Deep technical fluency in distributed systems, cloud-native architecture, and modern AI/ML infrastructure, with hands-on ability to review code, lead architecture decisions, and guide system design
+
+ Demonstrated success leading cross-functional engineering initiatives in ambiguous, fast-moving domains, translating high-level strategic goals into executable roadmaps with clear milestones
+
+ Experience in compliance, regulatory technology, customer support automation, or financial crimes domains
+
+ Utilizes generative AI responsibly, maintaining human oversight to deliver business-ready outputs and drive measurable improvements in workflow efficiency, cost, and quality.
+
+ Pay Transparency Notice: Base salary varies by location (see range below). Total compensation may also include equity and bonus eligibility, and benefits (medical, dental, vision, 401(k)). 
+
+ Annual base salary range (excluding equity and bonus):
+ $253,895 — $298,700 USD 
+
+ Application Limit: Candidates may submit a maximum of 3 applications within a 6-month period.
+
+ Equal Opportunity Employer: Coinbase is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or genetic information. Applicants with criminal histories will be considered consistent with applicable federal, state, and local laws. 
+
+ US Applicants: View Employee Rights , Know Your Rights , and E-Verify Notice of Participation. 
+
+ Accommodations: If you are an individual with a disability who needs a reasonable accommodation, email us your request and contact info at accommodations[at]coinbase.com. Need screen reading technology? Click here to download a free compatible screen reader and view the tutorial . 
+
+ Data Privacy & Arbitration: By submitting your application, you agree to our Candidate Privacy Notice . US applicants: By submitting your application, you agree to Arbitration of Disputes .

@@ -6,27 +6,19 @@
 ---
 Our Mission and Opportunity
 
-Early education is one of the most important determinants of childhood outcomes, a critical support for working families, and a $175B market that remains underserved by modern technology. Brightwheel is the largest, fastest growing, and most loved platform in early ed, trusted by millions of educators and families every day.  We are a three-time Cloud 100 company https://www.forbes.com/lists/cloud100/a, backed by top investors including Addition, Bessemer, Emerson Collective, Lowercase Capital, Notable Capital, and Mark Cuban. 
-
-
+Early education is one of the most important determinants of childhood outcomes, a critical support for working families, and a $175B market that remains underserved by modern technology. Brightwheel is the largest, fastest growing, and most loved platform in early ed, trusted by millions of educators and families every day. We are a three-time Cloud 100 company https://www.forbes.com/lists/cloud100/a, backed by top investors including Addition, Bessemer, Emerson Collective, Lowercase Capital, Notable Capital, and Mark Cuban. 
 
 Our Team
 
 Our team is passionate, talented, and customer-focused. We embody our Leadership Principles https://mybrightwheel.com/about/ in our work and culture. We are a distributed team with remote employees across every US time zone, as well as select offices in the US and internationally. 
 
-
-
 Our Mission and Opportunity
 
 Early education is one of the greatest determinants of childhood outcomes, is a must for working families, and has lasting social and economic impact. Brightwheel’s vision is high quality early education for every child. We pursue this by directly supporting teachers in the classroom, engaging parents in the development of their kids, and enabling the small businesses that make up the backbone of the $175 billion early education industry. Brightwheel is the most loved technology brand in early education, trusted by tens of thousands of providers and millions of educators and families.
 
-
-
 About the role
 
 Our team is passionate, talented, and deeply customer-focused. We build the platform that thousands of early education programs rely on every day to run their business, serve families, and support children’s growth. As a vertical SaaS company, brightwheel already sits in the middle of the key workflows in early education. We are extending that foundation into a system of action—where software not only records what happened, but also anticipates work, recommends next steps, and takes safe, automated action on behalf of school leaders, teachers, families, and our internal teams.
-
-
 
 We’re looking for a hands-on Engineering Manager who combines strong people leadership, technical judgment, and ownership of measurable outcomes. In this role, you will lead a team building customer-facing products that help school leaders, teachers, and families save time, make better decisions, and run stronger programs. You’ll partner closely with Product, Design, and customer-facing teams to define what to build, then take it through production, adoption, and measurable customer impact.
 
@@ -86,12 +78,6 @@ Technology
 
  - AI and automation: AWS Bedrock and other hosted models, vector search, orchestration frameworks, and modern AI coding tools.
 
- 
-
-
-
 Brightwheel is committed to creating a diverse and inclusive work environment and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity, gender expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
-
-
 
 Protecting Our Applicants: Please be aware of recruiting scams impersonating Brightwheel. All legitimate communications come from @mybrightwheel.com http://mybrightwheel.com addresses, and we never ask for payment or sensitive personal data as part of our hiring process. If you suspect fraudulent contact, reach out to security@mybrightwheel.com. Thank you for helping us keep our applicant community safe.

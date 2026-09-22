@@ -4,48 +4,76 @@
 - location: Toronto, Canada
 - captured: 2026-09-22
 ---
-<h2>Who we are</h2>
-<h3>About Stripe</h3>
-<p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p>
-<h3>About the team</h3>
-<p>As a platform company powering businesses all over the world, Stripe processes payments, runs marketplaces, detects fraud, helps entrepreneurs start internet businesses from anywhere in the world, builds world-class developer-friendly APIs, and more. The engineering teams at Stripe work on the business logic for all of that. As a software engineering manager at Stripe, you'll lead teams that build and expand APIs, services, and experiences. You'll also work with partners to launch new markets and vertical capabilities.</p>
-<p>Stripe Terminal helps our users extend their online presence to the physical world. The mission of the Terminal team is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments—building for Unified Commerce. With Terminal, businesses can unify their in-person and online experiences, unlocking payments use cases that are right for their business model—whether it's creating a modern retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.</p>
-<p>Within Terminal, the Commerce team focuses on the following to help make Unified Commerce a reality for businesses across the globe.</p>
-<ul>
-<li>Enterprise features—on-reader forms, tipping, gift cards</li>
-<li>Payment features—DCC, surcharge, multi-capture</li>
-<li>Point-of-sale integrations—enterprise-focused integrations</li>
-<li>Low-code and no-code—solutions that will enable our users to onboard quickly</li>
-</ul>
-<h2>What you'll do</h2>
-<p>As an Engineering Manager on the Terminal Commerce Experience team, you'll launch and scale Unified Commerce experiences within Stripe Terminal, drive new end-customer and merchant features, and build POS integrations from the ground up to support large-scale enterprise.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Work with leaders across Stripe to create and drive toward the vision of Unified Commerce, bringing in-person and online payments together</li>
-<li>Drive the roadmap and priorities for your team, and work with dependencies across the company</li>
-<li>Support the engineering team in achieving a high level of technical excellence and stability</li>
-<li>Manage processes to help the team do its best work and interface effectively with the rest of Stripe</li>
-<li>Recruit excellent engineers in collaboration with the Stripe recruiting team and develop engineers on the team, helping them advance in their careers</li>
-<li>Understand core Stripe APIs, influence design to interplay with card-present payments, and build a platform for Unified Commerce with your team</li>
-<li>Empower and guide your team to build and scale integrations and core abstractions across payment methods, gift cards, and point-of-sale connectors for large-scale enterprise</li>
-<li>Drive table stakes features like surcharging and tipping across Enterprise and SaaS platform merchants</li>
-</ul>
-<h2>Who you are</h2>
-<p>We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.</p>
-<h3>Minimum requirements</h3>
-<ul>
-<li>A strong technical background with 5+ years of experience in engineering leadership across <strong>mobile</strong>, <strong>API</strong>, <span style="text-decoration: underline;">and</span> <strong>backend</strong> development teams and demonstrated broad technical leadership</li>
-<li>Experience building diverse teams to tackle challenging technical problems</li>
-<li>An understanding of the impact of AI and a strong product mindset to turn emerging capabilities into clear customer and business value</li>
-<li>Experience thriving in a collaborative environment involving different stakeholders and subject matter experts</li>
-<li>Understanding of how to build and manage scalable, resilient, and observable systems across the stack</li>
-<li>The ability to listen well and internalize the best ideas from all over the organization while also setting a vision that others are excited to get behind</li>
-<li>The ability to put yourself in the shoes of our merchants and users</li>
-<li>Experience leading large technical projects with internal and external dependencies and impact across many teams</li>
-</ul>
-<h3>Preferred qualifications</h3>
-<ul>
-<li>Industry experience building or managing teams who have built in-person checkout experiences or payment method integrations</li>
-<li>Experience with in-person payments hardware and software such as card readers and firmware</li>
-<li>A deep understanding of the payments industry as a whole</li>
-</ul>
+Who we are
+
+ About Stripe
+
+ Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.
+
+ About the team
+
+ As a platform company powering businesses all over the world, Stripe processes payments, runs marketplaces, detects fraud, helps entrepreneurs start internet businesses from anywhere in the world, builds world-class developer-friendly APIs, and more. The engineering teams at Stripe work on the business logic for all of that. As a software engineering manager at Stripe, you'll lead teams that build and expand APIs, services, and experiences. You'll also work with partners to launch new markets and vertical capabilities.
+
+ Stripe Terminal helps our users extend their online presence to the physical world. The mission of the Terminal team is to make it as easy for businesses to accept in-person payments as the Stripe API has done for online payments—building for Unified Commerce. With Terminal, businesses can unify their in-person and online experiences, unlocking payments use cases that are right for their business model—whether it's creating a modern retail experience, extending their website to a pop-up store, or enabling a mobile point-of-sale at their next event.
+
+ Within Terminal, the Commerce team focuses on the following to help make Unified Commerce a reality for businesses across the globe.
+
+ Enterprise features—on-reader forms, tipping, gift cards
+
+ Payment features—DCC, surcharge, multi-capture
+
+ Point-of-sale integrations—enterprise-focused integrations
+
+ Low-code and no-code—solutions that will enable our users to onboard quickly
+
+ What you'll do
+
+ As an Engineering Manager on the Terminal Commerce Experience team, you'll launch and scale Unified Commerce experiences within Stripe Terminal, drive new end-customer and merchant features, and build POS integrations from the ground up to support large-scale enterprise.
+
+ Responsibilities
+
+ Work with leaders across Stripe to create and drive toward the vision of Unified Commerce, bringing in-person and online payments together
+
+ Drive the roadmap and priorities for your team, and work with dependencies across the company
+
+ Support the engineering team in achieving a high level of technical excellence and stability
+
+ Manage processes to help the team do its best work and interface effectively with the rest of Stripe
+
+ Recruit excellent engineers in collaboration with the Stripe recruiting team and develop engineers on the team, helping them advance in their careers
+
+ Understand core Stripe APIs, influence design to interplay with card-present payments, and build a platform for Unified Commerce with your team
+
+ Empower and guide your team to build and scale integrations and core abstractions across payment methods, gift cards, and point-of-sale connectors for large-scale enterprise
+
+ Drive table stakes features like surcharging and tipping across Enterprise and SaaS platform merchants
+
+ Who you are
+
+ We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+ Minimum requirements
+
+ A strong technical background with 5+ years of experience in engineering leadership across mobile , API , and backend development teams and demonstrated broad technical leadership
+
+ Experience building diverse teams to tackle challenging technical problems
+
+ An understanding of the impact of AI and a strong product mindset to turn emerging capabilities into clear customer and business value
+
+ Experience thriving in a collaborative environment involving different stakeholders and subject matter experts
+
+ Understanding of how to build and manage scalable, resilient, and observable systems across the stack
+
+ The ability to listen well and internalize the best ideas from all over the organization while also setting a vision that others are excited to get behind
+
+ The ability to put yourself in the shoes of our merchants and users
+
+ Experience leading large technical projects with internal and external dependencies and impact across many teams
+
+ Preferred qualifications
+
+ Industry experience building or managing teams who have built in-person checkout experiences or payment method integrations
+
+ Experience with in-person payments hardware and software such as card readers and firmware
+
+ A deep understanding of the payments industry as a whole

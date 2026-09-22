@@ -6,16 +6,9 @@
 ---
 1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that.
 
-
-
 But we're going further. Over 75,000 providers across all 50 states run their practice on our software, serving over 1 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale. We aren't just a billing layer; we are becoming the platform where care actually happens.
 
-
-
 We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better.
-
-
-
 
 ENGINEERING MANAGER, NETWORK VALUE
 
@@ -27,13 +20,9 @@ Headway was founded in 2019. Since then, we've grown into a diverse, national ne
 
 We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better.
 
-
-
-
 ABOUT ENGINEERING AT HEADWAY
 
 Building a new mental healthcare system at Headway is only possible because of the scale and leverage that software can provide. The engineering team at Headway is a small but mighty team using technology to build that future (and have a fun time while doing it!).
-
 
 PRINCIPLES THAT GUIDE US:
 
@@ -44,7 +33,6 @@ PRINCIPLES THAT GUIDE US:
  - Everything is a product: Whether it's our patient search experience or a developer productivity improvement, we treat everything we build at Headway as a product with end-users in mind.
 
  - Optimize for trust: We believe that engineers should be continually learning. To learn effectively and to be productive, engineers must feel safe asking questions and discussing mistakes.
-
 
 TOOLS WE USE:
 
@@ -64,7 +52,6 @@ TOOLS WE USE:
 
  - Cloud Security: Lacework
 
-
 ABOUT THIS ROLE
 
 Headway's mission is to build a new mental healthcare system that everyone can access. We have built the largest insurance-based therapy network in the country, and the insurers paying for it are now asking two fair questions: is it working, and is it worth it? Network Value is the team that answers the second one.
@@ -77,13 +64,9 @@ You'll grow and mentor a team of roughly five to eight engineers, set the roadma
 
 Get this right and the same money buys better care. Get it crudely wrong and we either keep paying for care that did not help, or we penalise providers who were doing the right thing all along. Holding both of those at once is the real difficulty of the role, and the reason it needs a strong leader.
 
-
-
-
 WHO YOU ARE
 
 We're looking for an engineering leader who is product-minded, data-informed, and energized by growth. You'll work closely with Engineering Leadership, Product, Clinical, and Data to shape the future of Headway's payer strategy. There is an unusually direct line from your team's work to the rates we can defend, and to whether this model of care survives contact with the market.
-
 
 IN THIS ROLE YOU WILL
 
@@ -98,7 +81,6 @@ IN THIS ROLE YOU WILL
  - Partner closely with Product, Clinical, Data Science, and Commercial to iterate quickly and rigorously
 
  - Contribute to the broader group and company strategy, not just your own roadmap
-
 
 EXPERIENCE WE'RE SEEKING
 
@@ -120,7 +102,6 @@ EXPERIENCE WE'RE SEEKING
 
  - Nice to have: prior experience with Python, React, and AWS infrastructure
 
-
 YOU'LL LOVE THIS ROLE IF YOU WANT TO
 
  - Lead the team that decides whether a new model of mental healthcare can be shown to be worth it, not just described
@@ -128,7 +109,6 @@ YOU'LL LOVE THIS ROLE IF YOU WANT TO
  - Own launches and numbers the company commits to externally, with the autonomy that comes with it
 
  - Build a tech-lead layer beneath you rather than inherit a finished team
-
 
 OUR INTERVIEW PROCESS
 
@@ -141,7 +121,6 @@ After you apply to Headway, here are some details of what to expect during the i
  - Final rounds: You'll meet team members across product and engineering leadership for multiple behavioral interviews and one more technical interview (System Design), leaving you with a fuller picture of what it's like to work at Headway.
 
  - References and the Offer: Our favorite part of the process! We'll send over all of the details, including specifics on employee equity, and congratulatory messages from excited future team members!
-
 
 COMPENSATION AND BENEFITS:
 
@@ -175,14 +154,8 @@ Benefits offered include:
 
  - Training and professional development
 
-
-
 We believe a team's strength is in its people, and we cannot achieve this mission without a team that reflects the diversity of this problem – across race, ethnicity, gender, sexuality, age, national origin, religion, family status, disability, military status, and experience. Headway is committed to the full inclusion of all qualified individuals. As part of this commitment, Headway will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or receive other benefits and privileges of employment, please inform the recruiter when they contact you to schedule your interview.
 
-
-
 Headway participates in E-Verify. To learn more, click here. https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf
-
-
 
 A notice to Headway applicants: To protect yourself against phishing and recruitment fraud, please note that Headway only accepts applications through our official careers page at https://headway.co/careers. Headway will never refer you to external websites, ask for payment or personal information, or conduct interviews via messaging apps. All official communication will come from a @findheadway.com http://findheadway.com email address. If you are contacted by someone claiming to be from Headway via an unofficial channel, please do not share any information and report it as spam.

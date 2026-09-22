@@ -4,40 +4,60 @@
 - location: Toronto
 - captured: 2026-09-22
 ---
-<h2>Who we are</h2>
-<h3>About Stripe</h3>
-<p>Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p>
-<h3>About the team</h3>
-<ul>
-<li><strong>The Mission:</strong> Lead the engineering team building the Requirements Management API and infrastructure that enables Stripe to collect, explain, track, and resolve risk requirements throughout the user lifecycle from onboarding through ongoing monitoring. This work makes Risk reusable across products, markets, and user types, while helping Stripe expand regulated financial products without rebuilding compliance and risk workflows for each new use case.</li>
-<li><strong>The Scale:</strong> The team’s interfaces and standards influence how requirements are created and fulfilled across Risk, Onboarding, and product integrations—not just a single product experience. This requires broad cross-team influence across 6+ teams. It is currently 6 people and actively hiring.</li>
-<li><strong>The Complexity:</strong> This role has technical complexity in both API design and system scalability / reliability. The underlying system is used broadly across all of Stripe, serves a high volume of traffic, and has critical SLOs backing meaningful user-facing APIs. The role also requires strong product judgment: translating risk-management needs into reusable APIs that work for Risk teams while delivering clear, effective remediation experiences for Stripe users.</li>
-<li><strong>The Stakeholders:</strong> Partner with Risk Engineering teams, Onboarding, Product, Data Science, and product teams integrating with the platform. You will align decisioning, information-collection, and user-facing presentation experiences around consistent, explainable requirements.</li>
-</ul>
-<h2>What you'll do</h2>
-<p>As an Engineering Manager at Stripe, you will operate with full autonomy across a complex, high-impact area of our product or infrastructure. Your scope extends beyond a single team - you lead or strongly influence multiple engineering teams, execute on parallel high-priority workstreams, and develop senior engineering talent. You are expected to set direction, align stakeholders, make decisions that stick, and deliver results without needing to be directed. This is the career level for Engineering Managers at Stripe: the fully realized, autonomous EM who drives lasting organizational impact.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Lead with Scope and Autonomy: Drive impact across multiple teams or a significant product area, fully independently. Translate organizational goals into a concrete execution plan, manage complex parallel workstreams, and hold yourself and your team(s) accountable for delivering meaningful results at a consistently high bar.</li>
-<li>Define Strategy and Roadmap: Develop the vision, strategy, and goals for your area without waiting to be told what to do. Anticipate user needs, technical challenges, and business priorities — and make decisions that hold up over time. Communicate your plan clearly and persuasively to both your team and senior leadership, and connect your team's work to Stripe's broader mission.</li>
-<li>Develop Senior Talent: Invest meaningfully in the growth of senior engineers and emerging leaders on your team. Provide direct coaching, create meaningful stretch opportunities, and give candid feedback that elevates both individual and collective performance. Managers, senior ICs, and high-potential engineers grow under your leadership.</li>
-<li>Drive Cross-Functional Alignment: Build trusted, productive working relationships with stakeholders across Product, Design, and adjacent engineering teams. You resolve ambiguity at the intersections, align teams around shared priorities, and ensure your organization's work is understood and valued across Stripe.</li>
-<li>Hire and Scale the Team: Take a strategic and proactive approach to recruiting. You attract senior engineering talent, set a high hiring bar, and ensure every hire improves your team and Stripe as a whole. You have a demonstrated track record of building diverse, high-performing teams.</li>
-<li>Operate with Rigor: Instill a culture of high standards, ownership, and operational excellence across your organization. Proactively identify systemic issues, drive process improvements, and model the behaviors you want to see — including quality, urgency, and a sense of craft.</li>
-</ul>
-<h2>Who you are</h2>
-<p>We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.</p>
-<h3>Minimum requirements</h3>
-<ul>
-<li>Bachelor's degree or equivalent practical experience with 10+ years of software development experience</li>
-<li>4+ years of engineering management experience with a demonstrated, autonomous track record of impact as an EM — you deliver consistently without close direction</li>
-<li>Experience leading high-complexity engineering teams executing in parallel on multiple difficult, high-impact workstreams simultaneously</li>
-<li>Proven ability to influence and align cross-functional stakeholders without direct authority, communicating a clear direction that others follow</li>
-<li>Meaningful recruiting experience, including a track record of attracting and developing senior engineering talent</li>
-<li>Technical depth sufficient to guide architecture decisions and hold your team's work to a high standard across both product quality and engineering craft</li>
-</ul>
-<h3>Preferred qualifications</h3>
-<ul>
-<li>Experience managing a team which operates a critical service with demanding reliability and latency requirements.</li>
-<li>API design depth, with demonstrated ability to hold a high bar on API quality for a team whose primary product is an API.</li>
-</ul>
+Who we are
+
+ About Stripe
+
+ Stripe is a financial infrastructure platform for businesses. Millions of companies — from the world's largest enterprises to the most ambitious startups — use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.
+
+ About the team
+
+ The Mission: Lead the engineering team building the Requirements Management API and infrastructure that enables Stripe to collect, explain, track, and resolve risk requirements throughout the user lifecycle from onboarding through ongoing monitoring. This work makes Risk reusable across products, markets, and user types, while helping Stripe expand regulated financial products without rebuilding compliance and risk workflows for each new use case.
+
+ The Scale: The team’s interfaces and standards influence how requirements are created and fulfilled across Risk, Onboarding, and product integrations—not just a single product experience. This requires broad cross-team influence across 6+ teams. It is currently 6 people and actively hiring.
+
+ The Complexity: This role has technical complexity in both API design and system scalability / reliability. The underlying system is used broadly across all of Stripe, serves a high volume of traffic, and has critical SLOs backing meaningful user-facing APIs. The role also requires strong product judgment: translating risk-management needs into reusable APIs that work for Risk teams while delivering clear, effective remediation experiences for Stripe users.
+
+ The Stakeholders: Partner with Risk Engineering teams, Onboarding, Product, Data Science, and product teams integrating with the platform. You will align decisioning, information-collection, and user-facing presentation experiences around consistent, explainable requirements.
+
+ What you'll do
+
+ As an Engineering Manager at Stripe, you will operate with full autonomy across a complex, high-impact area of our product or infrastructure. Your scope extends beyond a single team - you lead or strongly influence multiple engineering teams, execute on parallel high-priority workstreams, and develop senior engineering talent. You are expected to set direction, align stakeholders, make decisions that stick, and deliver results without needing to be directed. This is the career level for Engineering Managers at Stripe: the fully realized, autonomous EM who drives lasting organizational impact.
+
+ Responsibilities
+
+ Lead with Scope and Autonomy: Drive impact across multiple teams or a significant product area, fully independently. Translate organizational goals into a concrete execution plan, manage complex parallel workstreams, and hold yourself and your team(s) accountable for delivering meaningful results at a consistently high bar.
+
+ Define Strategy and Roadmap: Develop the vision, strategy, and goals for your area without waiting to be told what to do. Anticipate user needs, technical challenges, and business priorities — and make decisions that hold up over time. Communicate your plan clearly and persuasively to both your team and senior leadership, and connect your team's work to Stripe's broader mission.
+
+ Develop Senior Talent: Invest meaningfully in the growth of senior engineers and emerging leaders on your team. Provide direct coaching, create meaningful stretch opportunities, and give candid feedback that elevates both individual and collective performance. Managers, senior ICs, and high-potential engineers grow under your leadership.
+
+ Drive Cross-Functional Alignment: Build trusted, productive working relationships with stakeholders across Product, Design, and adjacent engineering teams. You resolve ambiguity at the intersections, align teams around shared priorities, and ensure your organization's work is understood and valued across Stripe.
+
+ Hire and Scale the Team: Take a strategic and proactive approach to recruiting. You attract senior engineering talent, set a high hiring bar, and ensure every hire improves your team and Stripe as a whole. You have a demonstrated track record of building diverse, high-performing teams.
+
+ Operate with Rigor: Instill a culture of high standards, ownership, and operational excellence across your organization. Proactively identify systemic issues, drive process improvements, and model the behaviors you want to see — including quality, urgency, and a sense of craft.
+
+ Who you are
+
+ We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
+
+ Minimum requirements
+
+ Bachelor's degree or equivalent practical experience with 10+ years of software development experience
+
+ 4+ years of engineering management experience with a demonstrated, autonomous track record of impact as an EM — you deliver consistently without close direction
+
+ Experience leading high-complexity engineering teams executing in parallel on multiple difficult, high-impact workstreams simultaneously
+
+ Proven ability to influence and align cross-functional stakeholders without direct authority, communicating a clear direction that others follow
+
+ Meaningful recruiting experience, including a track record of attracting and developing senior engineering talent
+
+ Technical depth sufficient to guide architecture decisions and hold your team's work to a high standard across both product quality and engineering craft
+
+ Preferred qualifications
+
+ Experience managing a team which operates a critical service with demanding reliability and latency requirements.
+
+ API design depth, with demonstrated ability to hold a high bar on API quality for a team whose primary product is an API.

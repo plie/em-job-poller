@@ -6,15 +6,9 @@
 ---
 Relay is a digital banking platform that gives self-made business owners the tools and know-how to be great with money—bringing clarity, confidence, and control to every dollar earned, so they can turn hard work into lasting success. We do this by replacing financial guesswork with real visibility, transforming cash flow from a constant source of stress into a clear signal owners can use to run stronger, more resilient businesses.
 
-
-
 Relay is entering an exciting new chapter, and we're hiring an Engineering Manager, Risk to help shape our next stage of scale. You'll make high-impact, strategic decisions every day, with direct influence over a product used and loved by thousands of small businesses.
 
-
-
 Our Risk Engineering team is building automated systems that detect, prevent, and mitigate financial risk and fraud—while maintaining a seamless customer experience and minimizing manual intervention. In this role, you’ll help scale and evolve these capabilities to support Relay’s growth, balancing effective risk management with a frictionless user experience. You’ll work on thoughtful, reliable solutions that enable the business to grow safely and confidently, alongside a team that moves quickly, ships with care, and takes ownership.
-
-
 
 What You’ll Be Doing
 
@@ -29,8 +23,6 @@ What You’ll Be Doing
  - People Management & Development: Build and grow a high-performing engineering team through hiring, onboarding, coaching, and performance management
 
  - Culture & Growth: Foster a collaborative, feedback-driven environment that supports continuous learning and professional development; encourage mentorship and knowledge sharing while creating opportunities for team development
-
-
 
 Who You Are
 
@@ -50,8 +42,6 @@ Who You Are
 
  - You thrive in cross-functional environments, bringing teams together, connecting the dots, and driving initiatives that deliver meaningful impact
 
-
-
 Our Tech Stack
 
  - Front-end: React, Typescript, React Native
@@ -59,8 +49,6 @@ Our Tech Stack
  - Back-end: Node.js, Typescript, Terraform, AWS (DynamoDB, RDS Postgres, Lambda, S3, SQS, SNS, SES, ElasticSearch, ECS)
 
  - Tools: Cursor, Claude, GitHub, GitHub Actions, Datadog, Jira, Metabase
-
-
 
 The Interview Process
 
@@ -72,25 +60,15 @@ The Interview Process
 
  - Stage 4: A 45-minute in-person interview with a member of the Leadership team
 
-
-
 Our Compensation Approach
 
 We believe Relayers should feel rewarded for the impact they have on our mission and growth. Compensation follows impact. As impact increases, compensation grows, and we do not limit compensation changes to a once-a-year review cycle.
 
-
-
 The annual salary range for this role is $207,000 CAD to $253,000 CAD.
-
-
 
 For candidates who demonstrate full readiness for the defined scope of the role, the typical starting salary is $230,000 CAD. Offers below this point reflect candidates we believe can grow into the full scope of the role with support and development. Offers above this point reflect impact that meaningfully exceeds the role’s defined expectations or an expanded scope from day one.
 
-
-
 We encourage you to have a conversation with your recruiter and ask questions about compensation throughout the hiring process. For more information on our compensation philosophy and perks and benefits, visit our Candidate Hub https://www.notion.so/Candidate-Hub-1c7da8b7f88580a893f7d7c7852b064e?pvs=21.
-
-
 
 Why Relay Might Be the Perfect Fit For You 
 
@@ -109,8 +87,6 @@ Why Relay Might Be the Perfect Fit For You
  - You seek out feedback: You see directness as respect, not criticism. You actively seek input, sit with hard truths, and use feedback as fuel for improvement.
 
  - Small businesses are why we're here: Relay exists to help them thrive -- and that mission has to resonate with you.
-
-
 
 Join Us
 

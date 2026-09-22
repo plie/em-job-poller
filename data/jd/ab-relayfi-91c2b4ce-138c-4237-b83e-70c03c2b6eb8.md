@@ -1,0 +1,119 @@
+# Relay — Engineering Manager, Growth
+
+- url: https://jobs.ashbyhq.com/relayfi/91c2b4ce-138c-4237-b83e-70c03c2b6eb8
+- location: Toronto, ON
+- captured: 2026-09-22
+---
+Relay is a digital banking platform that gives self-made business owners the tools and know-how to be great with money—bringing clarity, confidence, and control to every dollar earned, so they can turn hard work into lasting success. We do this by replacing financial guesswork with real visibility, transforming cash flow from a constant source of stress into a clear signal owners can use to run stronger, more resilient businesses.
+
+
+
+Relay is entering an exciting new chapter, and we're hiring an Engineering Manager, Growth to help shape our next stage of scale. You'll make high-impact, strategic decisions every day, with direct influence over a product used and loved by thousands of small businesses.
+
+
+
+Our Growth Engineering team owns the customer-facing journey from the moment a business registers, through the first time Relay delivers real value, and onward to building deeply engaged, retained customers. In this role, you'll join our product-led growth team to build the experiences that guide businesses through registration, activation, and monetization. You'll ship intuitive customer experiences, build rapid experimentation loops, and create the tools that help customers succeed faster. You'll work alongside a team that moves quickly, ships thoughtfully, and is constantly learning from customer feedback.
+
+
+
+What You'll Be Doing
+
+ - Delivery Leadership: Lead the planning and delivery of engineering initiatives, ensuring projects meet quality standards, timelines, and business goals; drive clarity in priorities and execution across the team
+
+ - Team Operations: Establish and maintain effective engineering processes, including sprint planning, code reviews, and technical design reviews; continuously refine team rituals to enable high-quality, predictable delivery
+
+ - Technical Strategy: Partner with senior leadership to shape and execute the technical vision, ensuring alignment with company goals and customer needs
+
+ - Cross-Functional Collaboration: Work closely with Product, Design, and other stakeholders to align engineering efforts with user needs and business objectives; enable teams to solve complex problems and deliver impactful solutions
+
+ - People Management & Development: Build and grow a high-performing engineering team through hiring, onboarding, coaching, and performance management
+
+ - Culture & Growth: Foster a collaborative, feedback-driven environment that supports continuous learning and professional development; encourage mentorship and knowledge sharing while creating opportunities for team development
+
+
+
+Who You Are
+
+ - You bring 5+ years of full-stack software development experience, ideally within a high-growth B2B SaaS or fintech environment, along with 1-3 years in a people management role
+
+ - You have a strong technical foundation and a proven track record of shipping high-quality products; experience with Node.js, TypeScript, React, and AWS is a plus
+
+ - You’re passionate about building and scaling engineering teams, and deeply invested in growing and developing people to do their best work
+
+ - You communicate clearly and effectively, and bring calm and clarity in times of ambiguity and change
+
+ - You’re a pragmatic decision-maker with a customer-centric mindset, able to navigate tradeoffs around scope, technical debt, and timelines while keeping customer needs front and center
+
+ - You think creatively and resourcefully, embracing experimentation and AI to solve complex problems within resource constraints
+
+ - You thrive in cross-functional environments, bringing teams together, connecting the dots, and driving initiatives that deliver meaningful impact
+
+
+
+Our Tech Stack
+
+ - Front-end: React, Typescript, React Native
+
+ - Back-end: Node.js, Typescript, Terraform, AWS (DynamoDB, RDS Postgres, Lambda, S3, SQS, SNS, SES, ElasticSearch, ECS)
+
+ - Tools: Cursor, Claude, GitHub, GitHub Actions, Datadog, Jira, Metabase
+
+
+
+The Interview Process
+
+ - Stage 1: A 30-minute Google Meet video call with a member of the Talent team
+
+ - Stage 2: A 60-minute Google Meet video call with our Engineering Leaders
+
+ - Stage 3: A take-home case study followed by a 60-minute Google Meet video call with our Engineering team
+
+ - Stage 4: A 45-minute in-person interview with a member of the Leadership team
+
+
+
+Our Compensation Approach
+
+We believe Relayers should feel rewarded for the impact they have on our mission and growth. Compensation follows impact. As impact increases, compensation grows, and we do not limit compensation changes to a once-a-year review cycle.
+
+
+
+The annual salary range for this role is $207,000 CAD to $253,000 CAD.
+
+
+
+For candidates who demonstrate full readiness for the defined scope of the role, the typical starting salary is $230,000 CAD. Offers below this point reflect candidates we believe can grow into the full scope of the role with support and development. Offers above this point reflect impact that meaningfully exceeds the role’s defined expectations or an expanded scope from day one.
+
+
+
+We encourage you to have a conversation with your recruiter and ask questions about compensation throughout the hiring process. For more information on our compensation philosophy and perks and benefits, visit our Candidate Hub https://www.notion.so/Candidate-Hub-1c7da8b7f88580a893f7d7c7852b064e?pvs=21.
+
+
+
+Why Relay Might Be the Perfect Fit For You 
+
+ - You push relentlessly for reinvention: You're always asking "how can this be better?" -- in your work, in your craft, in yourself. Comfort is a signal to push harder, not coast. You'd rather build something better than defend something familiar.
+
+ - You crave autonomy: We trust our team with big challenges and the freedom to solve them. If you’re someone who takes initiative, is comfortable taking risks, and seeks input when needed, you’ll find the freedom here empowering.
+
+ - You own your work: You take pride in your work, follow through on commitments, and feel a deep sense of responsibility for outcomes, not just tasks.
+
+ - You build with AI, not just use it: You're actively embedding AI into how you work, pushing what's possible, and bringing your team along with you.
+
+ - You care about impact, not noise: You care deeply about the substance of your work. You measure success by results, not recognition, and you let your work speak for itself. 
+
+ - You’re energized by complexity and ambiguity: You enjoy tackling problems that don’t come with a playbook. You’re comfortable building from scratch, iterating as you go, and collaborating to shape the best path forward.
+
+ - You seek out feedback: You see directness as respect, not criticism. You actively seek input, sit with hard truths, and use feedback as fuel for improvement.
+
+ - Small businesses are why we're here: Relay exists to help them thrive -- and that mission has to resonate with you.
+
+
+
+Join Us
+
+We're looking for people who are relentless, curious, and care deeply about the work. You're encouraged to apply even if your experience doesn't perfectly match the job description -- your perspective and drive matter more. We welcome diverse backgrounds and people who think critically, challenge the status quo, and want to help small businesses thrive.
+
+If you require accommodations at any stage of the hiring process, please reach out to your Talent Partner.
+
+Disclaimer: For compliance reasons, all offers of employment at Relay are conditional upon a successful background check and employment verification through Certn.

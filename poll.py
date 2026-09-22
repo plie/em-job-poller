@@ -93,7 +93,7 @@ WARN = re.compile(
 
 # Scope gate from the JD text: >5 years managing, or managing managers.
 YEARS_MGMT = re.compile(
-    r"(\d+)\s*\+?\s*(?:or more\s+)?years?[^.;]{0,60}?"
+    r"(\d+)\s*\+?\s*(?:or more\s+)?years?(?:(?!\d+\s*\+?\s*years?)[^.;]){0,60}?"
     r"(?:managing|management|leading|leadership|people[- ]manag)", re.I)
 MANAGES_MANAGERS = re.compile(
     r"manag(?:e|ing)\s+(?:engineering\s+)?managers|managers?\s+(?:of|reporting to)\s+(?:engineering\s+)?managers|"
@@ -127,8 +127,13 @@ def warning_flags(text: str):
 
 
 def strip_html(s: str) -> str:
+    """Greenhouse returns HTML-escaped HTML, so unescape first, then strip tags (twice is safe)."""
     import html as _h
-    return _h.unescape(re.sub(r"<[^>]+>", " ", s or ""))
+    s = _h.unescape(s or "")
+    s = re.sub(r"<(br|/p|/li|/h\d|/div)\s*/?>", "\n", s, flags=re.I)
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = _h.unescape(s)
+    return re.sub(r"[ \t]+", " ", re.sub(r"\n\s*\n+", "\n\n", s)).strip()
 
 
 # ---- JD field extraction -----------------------------------------------------
@@ -312,7 +317,12 @@ def poll_company(c):
             desc = ""
             if os.path.exists(jd_path):
                 with open(jd_path) as f:
-                    desc = f.read().split("\n---\n", 1)[-1]
+                    raw = f.read()
+                head, _, body = raw.partition("\n---\n")
+                desc = strip_html(body)
+                if desc != body.strip():
+                    with open(jd_path, "w") as f:
+                        f.write(head + "\n---\n" + desc + "\n")
             else:
                 try:
                     desc = j["_desc"]()

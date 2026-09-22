@@ -50,7 +50,8 @@ INCLUDE = re.compile(
 )
 # Scope: first-line and senior EM only. Director / Head of / VP / CTO are out.
 EXCLUDE = re.compile(
-    r"\bdirector\b|\bhead\s+of\b|\bvp\b|vice\s+president|\bcto\b|chief\b|"
+    r"\bdirector\b|\bhead\s+of\b|\bvp\b|vice\s+president|\bcto\b|chief\b|of\s+managers|"
+    r"finance|financial\s+planning|strategic|analytics\s+manager|"
     r"product\s+manager|program\s+manager|project\s+manager|account\s+manager|"
     r"engineering\s+program|marketing|sales|success|recruit|talent|community|"
     r"solutions?\s+(?:engineer|architect)|support\s+engineer|customer|"
@@ -133,10 +134,19 @@ def looks_like_em(title: str) -> bool:
     return bool(INCLUDE.search(title)) and not EXCLUDE.search(title)
 
 
+HUB_CITY = re.compile(
+    r"\bHQ\b|\boffice\b|new york|san francisco|seattle|chicago|boston|austin|denver|"
+    r"los angeles|palo alto|menlo park|mountain view|atlanta|washington,? d\.?c",
+    re.I,
+)
+
+
 def remote_us(location: str, remote_flag) -> bool:
     """True when the posting is remote and either names the US or names no other country."""
     loc = location or ""
-    is_remote = bool(remote_flag) or "remote" in loc.lower() or "anywhere" in loc.lower()
+    says_remote = "remote" in loc.lower() or "anywhere" in loc.lower()
+    # Ashby's isRemote is set on hybrid postings too; a bare city with the flag is not remote.
+    is_remote = says_remote or (bool(remote_flag) and not HUB_CITY.search(loc))
     if not is_remote:
         return False
     if US_EXPLICIT.search(loc):

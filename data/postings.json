@@ -16,7 +16,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:affirm:7918497003",
@@ -32,7 +32,7 @@
   "mgmt_years_required": "7+",
   "scope_reason": "asks 7+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:affirm:7701909003",
@@ -48,7 +48,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:boulevard:4597174006",
@@ -67,7 +67,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:brightwheel:b8543eb2-9f6e-4955-94fd-f02e013bf618",
@@ -83,7 +83,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:coinbase:8179214",
@@ -102,7 +102,7 @@
   "mgmt_years_required": "8+",
   "scope_reason": "asks 8+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:coinbase:8138031",
@@ -121,28 +121,26 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:coinbase:8124224",
   "company": "Coinbase",
   "category": "rails",
-  "title": "Senior Engineering Manager, Core Automation (Platform)",
+  "title": "Senior Engineering Manager, Core AI Automation (Platform)",
   "location": "Remote - USA",
   "remote_us": true,
   "url": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224",
-  "posted": "2026-09-08",
+  "posted": "2026-09-22",
   "flags": [
    "the environment is intense",
-   "not remote-only",
-   "navigate ambiguity",
-   "on-call rotation"
+   "not remote-only"
   ],
   "scope_ok": false,
   "mgmt_years_required": "2+",
   "scope_reason": "manages managers",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:coinbase:8148248",
@@ -162,7 +160,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8759592002",
@@ -180,7 +178,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8789547002",
@@ -196,7 +194,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8592950002",
@@ -212,7 +210,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8617538002",
@@ -228,7 +226,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:a7634532-7934-4948-9e5e-0ca0d15e5e46",
@@ -244,7 +242,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:0cc05401-8389-4e11-b501-1c6326d4c477",
@@ -260,7 +258,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:9ce97d23-19aa-4741-97cf-e8532ce747d3",
@@ -276,7 +274,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:e931863d-0a70-4a55-b8fc-ef64c445be3f",
@@ -292,7 +290,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:5986b67d-4ded-4280-8b28-dcb41f120f62",
@@ -308,7 +306,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:6894c152-cc8e-431a-85a4-131f4b885b95",
@@ -324,7 +322,7 @@
   "mgmt_years_required": "6+",
   "scope_reason": "manages managers",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:82e63da4-9c69-4439-904e-ac069895c7fe",
@@ -342,7 +340,7 @@
   "mgmt_years_required": "7+",
   "scope_reason": "asks 7+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:8bc00fec-bfc7-47ff-bef4-2d71776a56cb",
@@ -358,7 +356,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "lv:Huckleberrylabs:469f7c73-1ad7-4eb5-8924-183b4b569369",
@@ -374,7 +372,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:instacart:7960958",
@@ -395,7 +393,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:instacart:8084349",
@@ -414,7 +412,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:jobber:2f106ee0-8280-4e77-ba0e-7870d0807363",
@@ -430,7 +428,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:marqeta-inc:68a762e5-83d6-43e3-92ea-a69024f14655",
@@ -449,7 +447,7 @@
   "mgmt_years_required": "10+",
   "scope_reason": "asks 10+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:marqeta-inc:ce6bd6f5-3ef1-496e-8246-d3414d300dc6",
@@ -468,7 +466,7 @@
   "mgmt_years_required": "10+",
   "scope_reason": "asks 10+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:mercury:6201177004",
@@ -484,7 +482,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:mercury:6196335004",
@@ -500,7 +498,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:notion:3979a6f5-2abb-447b-bd3a-0565b06bae24",
@@ -516,7 +514,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:notion:eb46a31c-a258-4b19-afe6-f2c65eaa2dcc",
@@ -534,7 +532,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:notion:53cf8d13-92df-40fc-8486-7e74f0b9882a",
@@ -550,7 +548,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:orb:96e1fa18-4427-4f17-906b-fbd1d670f6be",
@@ -566,7 +564,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:plaid:3b205208-b07b-4acd-8abc-09f0fd0f88f1",
@@ -582,7 +580,7 @@
   "mgmt_years_required": "1+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:plaid:99398882-3594-46ce-9fa6-98fed631b3c6",
@@ -598,7 +596,7 @@
   "mgmt_years_required": "1+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:plaid:c9e63b56-5382-4438-ad2d-1b1ccd29c57a",
@@ -614,7 +612,7 @@
   "mgmt_years_required": "1+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:signifyd95:8172149",
@@ -632,7 +630,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:signifyd95:8126825",
@@ -650,7 +648,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8113337",
@@ -666,7 +664,7 @@
   "mgmt_years_required": "10+",
   "scope_reason": "asks 10+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8172489",
@@ -682,7 +680,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8180536",
@@ -700,7 +698,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:7688358",
@@ -716,7 +714,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:toast:8144016",
@@ -732,7 +730,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:zocdoc:7775912",
@@ -748,7 +746,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:zocdoc:8155444",
@@ -766,7 +764,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:addepar1:8495651002",
@@ -784,7 +782,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:addepar1:8709078002",
@@ -802,7 +800,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:addepar1:8376073002",
@@ -818,7 +816,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:affirm:7864959003",
@@ -834,7 +832,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:affirm:7701911003",
@@ -850,7 +848,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:airwallex:1b4fbf4c-85ef-48df-9dce-4654ad58d259",
@@ -868,7 +866,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:airwallex:8323ef8a-a728-41a6-a82d-addb2d645a85",
@@ -884,7 +882,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:airwallex:65c33a72-d6e5-4fe3-b39b-048b08e411e0",
@@ -900,7 +898,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:airwallex:f5c1b3b8-6ede-4984-8b99-187dc4781892",
@@ -916,7 +914,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:airwallex:452f3711-0eb8-47ab-8278-14a6af9018e9",
@@ -932,7 +930,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:airwallex:ea072eb2-2000-4a41-b145-35d3a2635ca9",
@@ -950,7 +948,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:alloy:8626476002",
@@ -966,7 +964,7 @@
   "mgmt_years_required": "8+",
   "scope_reason": "asks 8+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:betterment:8201853",
@@ -984,7 +982,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:betterment:8000757",
@@ -1003,39 +1001,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
- },
- {
-  "id": "gh:brex:8782795002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Engineering Manager, Bill Pay",
-  "location": "San Francisco, California, United States",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8782795002?gh_jid=8782795002",
-  "posted": "2026-09-10",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": "2+",
-  "scope_reason": "",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
- },
- {
-  "id": "gh:brex:8797771002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Engineering Manager, Bill Pay",
-  "location": "Vancouver, British Columbia, Canada",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8797771002?gh_jid=8797771002",
-  "posted": "2026-09-10",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": "2+",
-  "scope_reason": "",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8797770002",
@@ -1051,7 +1017,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8797769002",
@@ -1067,23 +1033,39 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
-  "id": "gh:brex:8339037002",
+  "id": "gh:brex:8782795002",
   "company": "Brex",
   "category": "fintech",
-  "title": "Engineering Manager, GTM Engineering",
+  "title": "Engineering Manager, Bill Pay",
   "location": "San Francisco, California, United States",
   "remote_us": false,
-  "url": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
+  "url": "https://www.brex.com/careers/8782795002?gh_jid=8782795002",
   "posted": "2026-09-10",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": "3+",
+  "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
+ },
+ {
+  "id": "gh:brex:8797771002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Engineering Manager, Bill Pay",
+  "location": "Vancouver, British Columbia, Canada",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8797771002?gh_jid=8797771002",
+  "posted": "2026-09-10",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": "2+",
+  "scope_reason": "",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8367553002",
@@ -1099,23 +1081,23 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
-  "id": "gh:brex:8367552002",
+  "id": "gh:brex:8339037002",
   "company": "Brex",
   "category": "fintech",
   "title": "Engineering Manager, GTM Engineering",
-  "location": "Seattle, Washington, United States",
+  "location": "San Francisco, California, United States",
   "remote_us": false,
-  "url": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
-  "posted": "2026-06-10",
+  "url": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
+  "posted": "2026-09-10",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8367549002",
@@ -1131,39 +1113,23 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
-  "id": "gh:brex:8461598002",
+  "id": "gh:brex:8367552002",
   "company": "Brex",
   "category": "fintech",
-  "title": "Engineering Manager, Onboarding",
+  "title": "Engineering Manager, GTM Engineering",
   "location": "Seattle, Washington, United States",
   "remote_us": false,
-  "url": "https://www.brex.com/careers/8461598002?gh_jid=8461598002",
+  "url": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
   "posted": "2026-06-10",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
- },
- {
-  "id": "gh:brex:8461597002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Engineering Manager, Onboarding",
-  "location": "Vancouver, British Columbia, Canada",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8461597002?gh_jid=8461597002",
-  "posted": "2026-06-10",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": "3+",
-  "scope_reason": "",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8461599002",
@@ -1179,7 +1145,23 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
+ },
+ {
+  "id": "gh:brex:8461597002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Engineering Manager, Onboarding",
+  "location": "Vancouver, British Columbia, Canada",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8461597002?gh_jid=8461597002",
+  "posted": "2026-06-10",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": "3+",
+  "scope_reason": "",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8461600002",
@@ -1195,39 +1177,23 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
-  "id": "gh:brex:8623291002",
+  "id": "gh:brex:8461598002",
   "company": "Brex",
   "category": "fintech",
-  "title": "Engineering Manager, Travel",
+  "title": "Engineering Manager, Onboarding",
   "location": "Seattle, Washington, United States",
   "remote_us": false,
-  "url": "https://www.brex.com/careers/8623291002?gh_jid=8623291002",
-  "posted": "2026-07-20",
+  "url": "https://www.brex.com/careers/8461598002?gh_jid=8461598002",
+  "posted": "2026-06-10",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": "not stated",
+  "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
- },
- {
-  "id": "gh:brex:8641189002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Engineering Manager, Travel",
-  "location": "New York, New York, United States",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8641189002?gh_jid=8641189002",
-  "posted": "2026-07-20",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": "not stated",
-  "scope_reason": "",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8641195002",
@@ -1243,7 +1209,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:brex:8641194002",
@@ -1259,7 +1225,39 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
+ },
+ {
+  "id": "gh:brex:8641189002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Engineering Manager, Travel",
+  "location": "New York, New York, United States",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8641189002?gh_jid=8641189002",
+  "posted": "2026-07-20",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": "not stated",
+  "scope_reason": "",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-09-22"
+ },
+ {
+  "id": "gh:brex:8623291002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Engineering Manager, Travel",
+  "location": "Seattle, Washington, United States",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8623291002?gh_jid=8623291002",
+  "posted": "2026-07-20",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": "not stated",
+  "scope_reason": "",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8606606002",
@@ -1278,7 +1276,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8477424002",
@@ -1297,7 +1295,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8625622002",
@@ -1315,7 +1313,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8609159002",
@@ -1333,7 +1331,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8322483002",
@@ -1351,7 +1349,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8525743002",
@@ -1371,7 +1369,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8795524002",
@@ -1389,7 +1387,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:chime:8535340002",
@@ -1407,7 +1405,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:current81:8156898",
@@ -1423,7 +1421,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:ethoslife:8632941002",
@@ -1439,7 +1437,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:ethoslife:8741979002",
@@ -1457,7 +1455,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:figma:5807963004",
@@ -1473,7 +1471,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:figma:5722244004",
@@ -1489,7 +1487,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:figma:6135721004",
@@ -1505,7 +1503,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:figma:6008752004",
@@ -1523,7 +1521,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:figma:6010279004",
@@ -1539,7 +1537,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:figma:5778796004",
@@ -1555,7 +1553,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8586667002",
@@ -1571,7 +1569,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8636648002",
@@ -1587,7 +1585,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8725225002",
@@ -1603,7 +1601,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8626740002",
@@ -1619,7 +1617,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8632388002",
@@ -1635,7 +1633,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8478405002",
@@ -1651,7 +1649,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8586632002",
@@ -1667,7 +1665,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8782040002",
@@ -1683,7 +1681,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gitlab:8755524002",
@@ -1701,7 +1699,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:gusto:8095021",
@@ -1717,7 +1715,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:harperinsure:fb090823-feb9-430f-b193-68dee922386b",
@@ -1733,7 +1731,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:harperinsure:081b2871-a11f-4d89-b6fe-922a12dcfb2e",
@@ -1751,7 +1749,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:headway:748fe666-44a1-4509-af9f-6ce6c3252e12",
@@ -1767,7 +1765,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:housecall:6190723004",
@@ -1786,7 +1784,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:instacart:7927378",
@@ -1805,7 +1803,7 @@
   "mgmt_years_required": "7+",
   "scope_reason": "asks 7+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:instacart:7960988",
@@ -1826,7 +1824,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:instacart:8084166",
@@ -1844,7 +1842,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:instacart:8084350",
@@ -1863,7 +1861,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:intercom:5298461",
@@ -1879,7 +1877,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:intercom:7818585",
@@ -1895,7 +1893,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:intercom:7784684",
@@ -1911,7 +1909,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:intercom:7818586",
@@ -1927,7 +1925,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:justworks:7975007",
@@ -1945,7 +1943,7 @@
   "mgmt_years_required": "1+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:justworks:7914415",
@@ -1963,7 +1961,7 @@
   "mgmt_years_required": "1+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:melio:7820154003",
@@ -1979,7 +1977,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:mindbody:4650873006",
@@ -1995,7 +1993,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:mindbody:4700953006",
@@ -2011,7 +2009,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:nextinsurance66:7714516003",
@@ -2029,7 +2027,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:relayfi:556b64c5-6fe0-4822-aeb6-07cb7a2d8b01",
@@ -2048,7 +2046,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:relayfi:91c2b4ce-138c-4237-b83e-70c03c2b6eb8",
@@ -2067,7 +2065,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "ab:relayfi:8c2d7759-8ea8-4752-aba9-89029be9c8f3",
@@ -2086,7 +2084,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:remotecom:7979356003",
@@ -2102,7 +2100,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:robinhood:7489697",
@@ -2118,23 +2116,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
- },
- {
-  "id": "gh:robinhood:8175213",
-  "company": "Robinhood",
-  "category": "fintech",
-  "title": "Engineering Manager, International",
-  "location": "New York, NY",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/robinhood/jobs/8175213?t=gh_src=&gh_jid=8175213",
-  "posted": "2026-09-10",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": "2+",
-  "scope_reason": "",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:robinhood:8175215",
@@ -2150,7 +2132,23 @@
   "mgmt_years_required": "2+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
+ },
+ {
+  "id": "gh:robinhood:8175213",
+  "company": "Robinhood",
+  "category": "fintech",
+  "title": "Engineering Manager, International",
+  "location": "New York, NY",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8175213?t=gh_src=&gh_jid=8175213",
+  "posted": "2026-09-10",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": "2+",
+  "scope_reason": "",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:robinhood:8142909",
@@ -2168,7 +2166,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:signifyd95:8130353",
@@ -2186,7 +2184,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:simplepractice55:6151430004",
@@ -2202,7 +2200,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8172499",
@@ -2218,7 +2216,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:7943804",
@@ -2234,7 +2232,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:7841757",
@@ -2250,7 +2248,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8198193",
@@ -2266,7 +2264,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8165515",
@@ -2282,7 +2280,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8161567",
@@ -2298,7 +2296,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:7835108",
@@ -2314,7 +2312,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:7947546",
@@ -2330,7 +2328,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8128496",
@@ -2346,7 +2344,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8205280",
@@ -2362,7 +2360,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8069506",
@@ -2378,7 +2376,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8155381",
@@ -2396,7 +2394,7 @@
   "mgmt_years_required": "2+",
   "scope_reason": "manages managers",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8104767",
@@ -2414,7 +2412,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:7913545",
@@ -2430,7 +2428,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:8124299",
@@ -2446,7 +2444,7 @@
   "mgmt_years_required": "4+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:stripe:7769005",
@@ -2462,7 +2460,7 @@
   "mgmt_years_required": "5+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:tipaltisolutions:6179095004",
@@ -2478,7 +2476,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:toast:8129949",
@@ -2494,7 +2492,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:vercel:5701765004",
@@ -2510,7 +2508,7 @@
   "mgmt_years_required": "3+",
   "scope_reason": "manages managers",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "lv:wealthfront:5cead124-1663-4ae2-9c28-708e1dee1ad7",
@@ -2526,7 +2524,7 @@
   "mgmt_years_required": "not stated",
   "scope_reason": "",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  },
  {
   "id": "gh:zocdoc:7994224",
@@ -2542,6 +2540,6 @@
   "mgmt_years_required": "20+",
   "scope_reason": "asks 20+ years managing",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-09-21"
+  "last_seen": "2026-09-22"
  }
 ]

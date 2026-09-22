@@ -27,6 +27,7 @@ COMPANIES = os.path.join(ROOT, "companies.json")
 POSTINGS = os.path.join(DATA, "postings.json")
 NEW = os.path.join(DATA, "new.json")
 ERRORS = os.path.join(DATA, "errors.json")
+JD_DIR = os.path.join(DATA, "jd")
 
 TIMEOUT = 20
 HEADERS = {"User-Agent": "em-job-poller/1.0 (+personal job search)"}
@@ -130,6 +131,94 @@ def strip_html(s: str) -> str:
     return _h.unescape(re.sub(r"<[^>]+>", " ", s or ""))
 
 
+# ---- JD field extraction -----------------------------------------------------
+MONEY = re.compile(r"\$\s?(\d{2,3}(?:,\d{3})+|\d{2,3}(?:\.\d)?\s?[kK])")
+
+
+def _to_int(s):
+    s = s.replace(",", "").strip()
+    if s[-1] in "kK":
+        return int(float(s[:-1]) * 1000)
+    return int(s)
+
+
+def salary_tiers(text: str):
+    """All $min–$max annual ranges in the JD, deduped, highest first.
+
+    Returns {"ranges": [{"min","max","label"}...], "top": {...}|None, "mine": {...}|None}.
+    Jenee's rule: when a posting lists several tiers she is in the second-highest
+    (Tier 1 is SF/NY); with one range that range is hers.
+    """
+    pairs = []
+    for m in re.finditer(
+        r"\$\s?(\d{2,3}(?:,\d{3})+|\d{2,3}(?:\.\d)?\s?[kK])\s*(?:-|–|—|to)\s*\$?\s?(\d{2,3}(?:,\d{3})+|\d{2,3}(?:\.\d)?\s?[kK])",
+        text or "",
+    ):
+        try:
+            lo, hi = _to_int(m.group(1)), _to_int(m.group(2))
+        except ValueError:
+            continue
+        if not (40_000 <= lo < hi <= 900_000):
+            continue
+        before = (text[max(0, m.start() - 120):m.start()]).lower()
+        label = ""
+        lm = re.search(r"(tier\s*\d|zone\s*\d|\bnational\b|\bremote\b|san francisco|new york|bay area|seattle|"
+                       r"nyc|sf\b|hub|premium|standard|metro|base)", before)
+        if lm:
+            label = lm.group(1)
+        pairs.append((lo, hi, label))
+    seen, ranges = set(), []
+    for lo, hi, label in pairs:
+        if (lo, hi) in seen:
+            continue
+        seen.add((lo, hi))
+        ranges.append({"min": lo, "max": hi, "label": label})
+    ranges.sort(key=lambda r: (r["max"], r["min"]), reverse=True)
+    top = ranges[0] if ranges else None
+    mine = ranges[1] if len(ranges) >= 2 else top
+    return {"ranges": ranges, "top": top, "mine": mine}
+
+
+PREF_HEAD = re.compile(r"prefer|nice[- ]to[- ]have|bonus|a plus|plus:|ideally|great if|not required", re.I)
+REQ_HEAD = re.compile(r"requir|minimum|must[- ]have|qualification|what you(?:'ll)? bring|you have|about you|who you are", re.I)
+
+
+def mgmt_years(text: str):
+    """Years of people-management: required vs preferred, judged by the nearest preceding heading."""
+    req, pref = [], []
+    for m in YEARS_MGMT.finditer(text or ""):
+        n = int(m.group(1))
+        if n > 25:
+            continue
+        window = text[max(0, m.start() - 600):m.start()]
+        p = max((x.end() for x in PREF_HEAD.finditer(window)), default=-1)
+        r = max((x.end() for x in REQ_HEAD.finditer(window)), default=-1)
+        line = text[max(0, m.start() - 60):m.end()]
+        if PREF_HEAD.search(line) or p > r:
+            pref.append(n)
+        else:
+            req.append(n)
+    return {"required": min(req) if req else None, "preferred": min(pref) if pref else None}
+
+
+FRONT = re.compile(r"\b(react|typescript|javascript|front[- ]?end|ios|android|mobile|swift|kotlin|react native|"
+                   r"design system|web platform|ui\b|ux\b|css)\b", re.I)
+BACK = re.compile(r"\b(back[- ]?end|distributed systems|microservices|apis?\b|infrastructure|platform|data pipeline|"
+                  r"postgres|sql|kafka|aws|gcp|kubernetes|ruby|rails|python|go\b|golang|java|scala|payments? systems?)\b", re.I)
+
+
+def focus(title: str, text: str):
+    t = (title or "")
+    body = (text or "")[:6000]
+    f = len(FRONT.findall(t)) * 3 + len(FRONT.findall(body))
+    b = len(BACK.findall(t)) * 3 + len(BACK.findall(body))
+    if f < 2 and b < 2:
+        return "unspecified"
+    if f >= 2 and b >= 2 and min(f, b) / max(f, b) > 0.5:
+        return "both"
+    return "frontend/mobile" if f > b else "backend"
+
+
 def looks_like_em(title: str) -> bool:
     return bool(INCLUDE.search(title)) and not EXCLUDE.search(title)
 
@@ -219,12 +308,26 @@ def poll_company(c):
         for j in FETCHERS[c["ats"]](c["slug"]):
             if not looks_like_em(j["title"]):
                 continue
-            try:
-                desc = j["_desc"]()
-            except Exception:  # noqa: BLE001
-                desc = ""
+            jd_path = os.path.join(JD_DIR, j["id"].replace(":", "-").replace(".", "_") + ".md")
+            desc = ""
+            if os.path.exists(jd_path):
+                with open(jd_path) as f:
+                    desc = f.read().split("\n---\n", 1)[-1]
+            else:
+                try:
+                    desc = j["_desc"]()
+                except Exception:  # noqa: BLE001
+                    desc = ""
+                if desc.strip():
+                    os.makedirs(JD_DIR, exist_ok=True)
+                    with open(jd_path, "w") as f:
+                        f.write(f"# {c['company']} — {j['title']}\n\n"
+                                f"- url: {j['url']}\n- location: {j['location']}\n"
+                                f"- captured: {date.today().isoformat()}\n---\n{desc.strip()}\n")
             flags = warning_flags(desc)
             scope_ok, yrs, why = scope_check(desc)
+            sal = salary_tiers(desc)
+            my = mgmt_years(desc)
             found.append({
                 "id": j["id"],
                 "company": c["company"],
@@ -236,8 +339,14 @@ def poll_company(c):
                 "posted": j["posted"],
                 "flags": flags,
                 "scope_ok": scope_ok,
-                "mgmt_years_required": f"{yrs}+" if yrs is not None else "not stated",
+                "mgmt_years_required": (my["required"] if my["required"] is not None else yrs),
                 "scope_reason": why,
+                "mgmt_years_preferred": my["preferred"],
+                "salary_ranges": sal["ranges"],
+                "salary_top": sal["top"],
+                "salary_mine": sal["mine"],
+                "focus": focus(j["title"], desc),
+                "jd_file": os.path.relpath(jd_path, ROOT) if os.path.exists(jd_path) else "",
             })
         return c, found, None
     except Exception as e:  # noqa: BLE001 - we want every failure recorded, not raised

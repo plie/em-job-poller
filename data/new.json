@@ -1,1 +1,110 @@
-[]
+[
+ {
+  "id": "gh:addepar1:8816123002",
+  "company": "Addepar",
+  "category": "fintech",
+  "title": "Engineering Manager, Advisor Experience",
+  "location": "New York, NY",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8816123002",
+  "posted": "2026-09-22",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 2,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 170000,
+    "max": 265000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 170000,
+   "max": 265000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 170000,
+   "max": 265000,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-addepar1-8816123002.md",
+  "first_seen": "2026-09-23",
+  "last_seen": "2026-09-23"
+ },
+ {
+  "id": "gh:vercel:6115908004",
+  "company": "Vercel",
+  "category": "rails",
+  "title": "Engineering Manager, Dashboard",
+  "location": "Hybrid - San Francisco",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/vercel/jobs/6115908004",
+  "posted": "2026-09-22",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 226000,
+    "max": 325000,
+    "label": "san francisco"
+   }
+  ],
+  "salary_top": {
+   "min": 226000,
+   "max": 325000,
+   "label": "san francisco"
+  },
+  "salary_mine": {
+   "min": 226000,
+   "max": 325000,
+   "label": "san francisco"
+  },
+  "focus": "both",
+  "jd_file": "data/jd/gh-vercel-6115908004.md",
+  "first_seen": "2026-09-23",
+  "last_seen": "2026-09-23"
+ },
+ {
+  "id": "gh:vercel:6140055004",
+  "company": "Vercel",
+  "category": "rails",
+  "title": "Engineering Manager - Next.js",
+  "location": "Hybrid - San Francisco, New York City",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/vercel/jobs/6140055004",
+  "posted": "2026-09-22",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 230000,
+    "max": 340000,
+    "label": "san francisco"
+   }
+  ],
+  "salary_top": {
+   "min": 230000,
+   "max": 340000,
+   "label": "san francisco"
+  },
+  "salary_mine": {
+   "min": 230000,
+   "max": 340000,
+   "label": "san francisco"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-vercel-6140055004.md",
+  "first_seen": "2026-09-23",
+  "last_seen": "2026-09-23"
+ }
+]

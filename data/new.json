@@ -1,110 +1,76 @@
 [
  {
-  "id": "gh:addepar1:8816123002",
-  "company": "Addepar",
+  "id": "gh:betterment:8212254",
+  "company": "Betterment",
   "category": "fintech",
-  "title": "Engineering Manager, Advisor Experience",
-  "location": "New York, NY",
+  "title": "Sr Engineering Manager \u2013 API & Auth Platform",
+  "location": "Betterment HQ - New York City",
   "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8816123002",
-  "posted": "2026-09-22",
-  "flags": [],
+  "url": "https://www.betterment.com/careers/current-openings/job?gh_jid=8212254&gh_jid=8212254",
+  "posted": "2026-09-23",
+  "flags": [
+   "sense of urgency"
+  ],
   "scope_ok": true,
-  "mgmt_years_required": 2,
+  "mgmt_years_required": null,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [
    {
-    "min": 170000,
-    "max": 265000,
+    "min": 200000,
+    "max": 230000,
+    "label": "new york"
+   }
+  ],
+  "salary_top": {
+   "min": 200000,
+   "max": 230000,
+   "label": "new york"
+  },
+  "salary_mine": {
+   "min": 200000,
+   "max": 230000,
+   "label": "new york"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-betterment-8212254.md",
+  "first_seen": "2026-09-24",
+  "last_seen": "2026-09-24"
+ },
+ {
+  "id": "gh:robinhood:8224564",
+  "company": "Robinhood",
+  "category": "fintech",
+  "title": "Engineering Manager, Data",
+  "location": "Toronto, Canada",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8224564?t=gh_src=&gh_jid=8224564",
+  "posted": "2026-09-24",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 200000,
+    "max": 235000,
     "label": "base"
    }
   ],
   "salary_top": {
-   "min": 170000,
-   "max": 265000,
+   "min": 200000,
+   "max": 235000,
    "label": "base"
   },
   "salary_mine": {
-   "min": 170000,
-   "max": 265000,
+   "min": 200000,
+   "max": 235000,
    "label": "base"
   },
   "focus": "backend",
-  "jd_file": "data/jd/gh-addepar1-8816123002.md",
-  "first_seen": "2026-09-23",
-  "last_seen": "2026-09-23"
- },
- {
-  "id": "gh:vercel:6115908004",
-  "company": "Vercel",
-  "category": "rails",
-  "title": "Engineering Manager, Dashboard",
-  "location": "Hybrid - San Francisco",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/6115908004",
-  "posted": "2026-09-22",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 226000,
-    "max": 325000,
-    "label": "san francisco"
-   }
-  ],
-  "salary_top": {
-   "min": 226000,
-   "max": 325000,
-   "label": "san francisco"
-  },
-  "salary_mine": {
-   "min": 226000,
-   "max": 325000,
-   "label": "san francisco"
-  },
-  "focus": "both",
-  "jd_file": "data/jd/gh-vercel-6115908004.md",
-  "first_seen": "2026-09-23",
-  "last_seen": "2026-09-23"
- },
- {
-  "id": "gh:vercel:6140055004",
-  "company": "Vercel",
-  "category": "rails",
-  "title": "Engineering Manager - Next.js",
-  "location": "Hybrid - San Francisco, New York City",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/vercel/jobs/6140055004",
-  "posted": "2026-09-22",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 230000,
-    "max": 340000,
-    "label": "san francisco"
-   }
-  ],
-  "salary_top": {
-   "min": 230000,
-   "max": 340000,
-   "label": "san francisco"
-  },
-  "salary_mine": {
-   "min": 230000,
-   "max": 340000,
-   "label": "san francisco"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-vercel-6140055004.md",
-  "first_seen": "2026-09-23",
-  "last_seen": "2026-09-23"
+  "jd_file": "data/jd/gh-robinhood-8224564.md",
+  "first_seen": "2026-09-24",
+  "last_seen": "2026-09-24"
  }
 ]

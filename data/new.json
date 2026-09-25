@@ -1,76 +1,24 @@
 [
  {
-  "id": "gh:betterment:8212254",
-  "company": "Betterment",
+  "id": "gh:stripe:8230300",
+  "company": "Stripe",
   "category": "fintech",
-  "title": "Sr Engineering Manager \u2013 API & Auth Platform",
-  "location": "Betterment HQ - New York City",
+  "title": "Engineering Manager - LPM Foundations",
+  "location": "Dublin",
   "remote_us": false,
-  "url": "https://www.betterment.com/careers/current-openings/job?gh_jid=8212254&gh_jid=8212254",
-  "posted": "2026-09-23",
-  "flags": [
-   "sense of urgency"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 200000,
-    "max": 230000,
-    "label": "new york"
-   }
-  ],
-  "salary_top": {
-   "min": 200000,
-   "max": 230000,
-   "label": "new york"
-  },
-  "salary_mine": {
-   "min": 200000,
-   "max": 230000,
-   "label": "new york"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-betterment-8212254.md",
-  "first_seen": "2026-09-24",
-  "last_seen": "2026-09-24"
- },
- {
-  "id": "gh:robinhood:8224564",
-  "company": "Robinhood",
-  "category": "fintech",
-  "title": "Engineering Manager, Data",
-  "location": "Toronto, Canada",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/robinhood/jobs/8224564?t=gh_src=&gh_jid=8224564",
+  "url": "https://stripe.com/jobs/search?gh_jid=8230300",
   "posted": "2026-09-24",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": null,
+  "mgmt_years_required": 5,
   "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 200000,
-    "max": 235000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 200000,
-   "max": 235000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 200000,
-   "max": 235000,
-   "label": "base"
-  },
+  "mgmt_years_preferred": 5,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-robinhood-8224564.md",
-  "first_seen": "2026-09-24",
-  "last_seen": "2026-09-24"
+  "jd_file": "data/jd/gh-stripe-8230300.md",
+  "first_seen": "2026-09-25",
+  "last_seen": "2026-09-25"
  }
 ]

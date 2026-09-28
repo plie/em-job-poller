@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "id": "gh:stripe:8234252",
+  "company": "Stripe",
+  "category": "fintech",
+  "title": "Engineering Manager, Accounting Products",
+  "location": "Bengaluru, India",
+  "remote_us": false,
+  "url": "https://stripe.com/jobs/search?gh_jid=8234252",
+  "posted": "2026-09-28",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 5,
+  "scope_reason": "",
+  "mgmt_years_preferred": 5,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-stripe-8234252.md",
+  "first_seen": "2026-09-28",
+  "last_seen": "2026-09-28"
+ }
+]

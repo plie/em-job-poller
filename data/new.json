@@ -1,24 +1,108 @@
 [
  {
-  "id": "gh:stripe:8234252",
-  "company": "Stripe",
+  "id": "gh:affirm:7999870003",
+  "company": "Affirm",
   "category": "fintech",
-  "title": "Engineering Manager, Accounting Products",
-  "location": "Bengaluru, India",
+  "title": "Manager, Software Engineering (Marketplace Performance)",
+  "location": "Remote US",
+  "remote_us": true,
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7999870003",
+  "posted": "2026-09-28",
+  "flags": [
+   "thrive in ambiguity"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 230000,
+    "max": 290000,
+    "label": "base"
+   },
+   {
+    "min": 204000,
+    "max": 264000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 230000,
+   "max": 290000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 204000,
+   "max": 264000,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-affirm-7999870003.md",
+  "first_seen": "2026-09-29",
+  "last_seen": "2026-09-29"
+ },
+ {
+  "id": "lv:finix:f1dbf40c-753a-429c-af14-a1d6ec6147df",
+  "company": "Finix",
+  "category": "fintech",
+  "title": "Sr. Organic Growth Manager",
+  "location": "San Francisco, San Francisco",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8234252",
+  "url": "https://jobs.lever.co/finix/f1dbf40c-753a-429c-af14-a1d6ec6147df",
   "posted": "2026-09-28",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 5,
+  "mgmt_years_required": null,
   "scope_reason": "",
-  "mgmt_years_preferred": 5,
+  "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/lv-finix-f1dbf40c-753a-429c-af14-a1d6ec6147df.md",
+  "first_seen": "2026-09-29",
+  "last_seen": "2026-09-29"
+ },
+ {
+  "id": "gh:robinhood:8205579",
+  "company": "Robinhood",
+  "category": "fintech",
+  "title": "Engineering Manager, Agentic Apps",
+  "location": "Menlo Park, CA",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8205579?t=gh_src=&gh_jid=8205579",
+  "posted": "2026-09-28",
+  "flags": [],
+  "scope_ok": false,
+  "mgmt_years_required": 10,
+  "scope_reason": "asks 10+ years managing",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 255000,
+    "max": 300000,
+    "label": "base"
+   },
+   {
+    "min": 199000,
+    "max": 234000,
+    "label": "zone 2"
+   }
+  ],
+  "salary_top": {
+   "min": 255000,
+   "max": 300000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 199000,
+   "max": 234000,
+   "label": "zone 2"
+  },
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8234252.md",
-  "first_seen": "2026-09-28",
-  "last_seen": "2026-09-28"
+  "jd_file": "data/jd/gh-robinhood-8205579.md",
+  "first_seen": "2026-09-29",
+  "last_seen": "2026-09-29"
  }
 ]

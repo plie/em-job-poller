@@ -1,24 +1,156 @@
 [
  {
-  "id": "ab:plaid:21d70dd3-3884-4c90-915d-ace885ddb245",
-  "company": "Plaid",
+  "id": "gh:instacart:8246075",
+  "company": "Instacart",
+  "category": "rails",
+  "title": "Engineering Manager, Site Reliability",
+  "location": "United States - Remote",
+  "remote_us": true,
+  "url": "https://instacart.careers/job/?gh_jid=8246075",
+  "posted": "2026-10-01",
+  "flags": [
+   "in-person events",
+   "navigate ambiguity"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 214000,
+    "max": 226000,
+    "label": "base"
+   },
+   {
+    "min": 205000,
+    "max": 216500,
+    "label": "base"
+   },
+   {
+    "min": 196000,
+    "max": 207000,
+    "label": ""
+   },
+   {
+    "min": 178000,
+    "max": 188000,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 214000,
+   "max": 226000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 205000,
+   "max": 216500,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-instacart-8246075.md",
+  "first_seen": "2026-10-02",
+  "last_seen": "2026-10-02"
+ },
+ {
+  "id": "gh:addepar1:8855767002",
+  "company": "Addepar",
   "category": "fintech",
-  "title": "Engineering Manager",
-  "location": "New York City Office",
+  "title": "Sr. Engineering Manager, Precompute",
+  "location": "Edinburgh, UK",
   "remote_us": false,
-  "url": "https://jobs.ashbyhq.com/plaid/21d70dd3-3884-4c90-915d-ace885ddb245",
-  "posted": "2026-09-30",
+  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8855767002",
+  "posted": "2026-10-01",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 1,
+  "mgmt_years_required": null,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/ab-plaid-21d70dd3-3884-4c90-915d-ace885ddb245.md",
-  "first_seen": "2026-10-01",
-  "last_seen": "2026-10-01"
+  "jd_file": "data/jd/gh-addepar1-8855767002.md",
+  "first_seen": "2026-10-02",
+  "last_seen": "2026-10-02"
+ },
+ {
+  "id": "gh:chime:8733757002",
+  "company": "Chime",
+  "category": "rails",
+  "title": "Tech Lead Manager, Data Integration Platform",
+  "location": "San Francisco, CA, USA",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/chime/jobs/8733757002?gh_jid=8733757002",
+  "posted": "2026-10-01",
+  "flags": [
+   "player-coach",
+   "hustle"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": 3,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 199000,
+    "max": 275000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 199000,
+   "max": 275000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 199000,
+   "max": 275000,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-chime-8733757002.md",
+  "first_seen": "2026-10-02",
+  "last_seen": "2026-10-02"
+ },
+ {
+  "id": "gh:instacart:8246076",
+  "company": "Instacart",
+  "category": "rails",
+  "title": "Engineering Manager, Site Reliability",
+  "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+  "remote_us": false,
+  "url": "https://instacart.careers/job/?gh_jid=8246076",
+  "posted": "2026-10-01",
+  "flags": [
+   "in-person events",
+   "navigate ambiguity"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 183000,
+    "max": 193000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 183000,
+   "max": 193000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 183000,
+   "max": 193000,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-instacart-8246076.md",
+  "first_seen": "2026-10-02",
+  "last_seen": "2026-10-02"
  }
 ]

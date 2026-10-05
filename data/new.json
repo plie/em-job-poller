@@ -1,1 +1,24 @@
-[]
+[
+ {
+  "id": "gh:intercom:7541123",
+  "company": "Intercom",
+  "category": "rails",
+  "title": "Engineering Manager",
+  "location": "Berlin, Germany",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/intercom/jobs/7541123",
+  "posted": "2026-10-05",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-intercom-7541123.md",
+  "first_seen": "2026-10-05",
+  "last_seen": "2026-10-05"
+ }
+]

@@ -1,12 +1,111 @@
 [
  {
-  "id": "gh:intercom:7541123",
-  "company": "Intercom",
+  "id": "gh:gitlab:8845322002",
+  "company": "GitLab",
   "category": "rails",
-  "title": "Engineering Manager",
-  "location": "Berlin, Germany",
+  "title": "Engineering Manager, Dedicated Infrastructure",
+  "location": "Remote, Canada; Remote, United States",
+  "remote_us": true,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845322002",
+  "posted": "2026-10-05",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 152800,
+    "max": 259200,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 152800,
+   "max": 259200,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 152800,
+   "max": 259200,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-gitlab-8845322002.md",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06"
+ },
+ {
+  "id": "gh:mercury:6217141004",
+  "company": "Mercury",
+  "category": "fintech",
+  "title": "Engineering Manager - Bank Accounts",
+  "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+  "remote_us": true,
+  "url": "https://job-boards.greenhouse.io/mercury/jobs/6217141004",
+  "posted": "2026-10-05",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 200700,
+    "max": 250900,
+    "label": "base"
+   },
+   {
+    "min": 189700,
+    "max": 237100,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 200700,
+   "max": 250900,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 189700,
+   "max": 237100,
+   "label": ""
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-mercury-6217141004.md",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06"
+ },
+ {
+  "id": "gh:stripe:8229361",
+  "company": "Stripe",
+  "category": "fintech",
+  "title": "Engineering Manager, Mobile Development Productivity",
+  "location": "US-Remote",
+  "remote_us": true,
+  "url": "https://stripe.com/jobs/search?gh_jid=8229361",
+  "posted": "2026-10-05",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 3,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "frontend/mobile",
+  "jd_file": "data/jd/gh-stripe-8229361.md",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06"
+ },
+ {
+  "id": "gh:addepar1:8853131002",
+  "company": "Addepar",
+  "category": "fintech",
+  "title": "Engineering Manager, Product Platform",
+  "location": "Poland",
   "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/intercom/jobs/7541123",
+  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8853131002",
   "posted": "2026-10-05",
   "flags": [],
   "scope_ok": true,
@@ -16,9 +115,31 @@
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-intercom-7541123.md",
-  "first_seen": "2026-10-05",
-  "last_seen": "2026-10-05"
+  "focus": "backend",
+  "jd_file": "data/jd/gh-addepar1-8853131002.md",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06"
+ },
+ {
+  "id": "gh:addepar1:8617386002",
+  "company": "Addepar",
+  "category": "fintech",
+  "title": "Software Engineering Manager(Backend)",
+  "location": "Pune, India",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8617386002",
+  "posted": "2026-10-06",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-addepar1-8617386002.md",
+  "first_seen": "2026-10-06",
+  "last_seen": "2026-10-06"
  }
 ]

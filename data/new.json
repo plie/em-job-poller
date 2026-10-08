@@ -1,15 +1,38 @@
 [
  {
-  "id": "gh:federato:5444353008",
-  "company": "Federato",
-  "category": "insurtech",
-  "title": "Engineering Manager",
-  "location": "Remote",
-  "remote_us": true,
-  "url": "https://job-boards.greenhouse.io/federato/jobs/5444353008",
-  "posted": "2026-10-06",
+  "id": "gh:affirm:8012584003",
+  "company": "Affirm",
+  "category": "fintech",
+  "title": "Manager, Software Engineering (Identity)",
+  "location": "Remote UK",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8012584003",
+  "posted": "2026-10-07",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 3,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-affirm-8012584003.md",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-08"
+ },
+ {
+  "id": "gh:chime:8692366002",
+  "company": "Chime",
+  "category": "rails",
+  "title": "Tech Lead Manager, Platform",
+  "location": "San Francisco, CA, USA",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/chime/jobs/8692366002?gh_jid=8692366002",
+  "posted": "2026-10-07",
   "flags": [
-   "fast-paced"
+   "player-coach",
+   "hustle"
   ],
   "scope_ok": true,
   "mgmt_years_required": 2,
@@ -17,100 +40,24 @@
   "mgmt_years_preferred": null,
   "salary_ranges": [
    {
-    "min": 200000,
-    "max": 230000,
-    "label": ""
+    "min": 199000,
+    "max": 275000,
+    "label": "base"
    }
   ],
   "salary_top": {
-   "min": 200000,
-   "max": 230000,
-   "label": ""
+   "min": 199000,
+   "max": 275000,
+   "label": "base"
   },
   "salary_mine": {
-   "min": 200000,
-   "max": 230000,
-   "label": ""
+   "min": 199000,
+   "max": 275000,
+   "label": "base"
   },
   "focus": "backend",
-  "jd_file": "data/jd/gh-federato-5444353008.md",
-  "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07"
- },
- {
-  "id": "gh:brex:8871796002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Accounting Partner Growth Manager",
-  "location": "New York, New York, United States",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8871796002?gh_jid=8871796002",
-  "posted": "2026-10-06",
-  "flags": [
-   "fast-paced"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 135600,
-    "max": 169500,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 135600,
-   "max": 169500,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 135600,
-   "max": 169500,
-   "label": ""
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-brex-8871796002.md",
-  "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07"
- },
- {
-  "id": "gh:brex:8871795002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Accounting Partner Growth Manager",
-  "location": "San Francisco, California, United States",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8871795002?gh_jid=8871795002",
-  "posted": "2026-10-06",
-  "flags": [
-   "fast-paced"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 135600,
-    "max": 169500,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 135600,
-   "max": 169500,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 135600,
-   "max": 169500,
-   "label": ""
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-brex-8871795002.md",
-  "first_seen": "2026-10-07",
-  "last_seen": "2026-10-07"
+  "jd_file": "data/jd/gh-chime-8692366002.md",
+  "first_seen": "2026-10-08",
+  "last_seen": "2026-10-08"
  }
 ]

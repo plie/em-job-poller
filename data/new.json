@@ -1,63 +1,74 @@
 [
  {
-  "id": "gh:affirm:8012584003",
-  "company": "Affirm",
-  "category": "fintech",
-  "title": "Manager, Software Engineering (Identity)",
-  "location": "Remote UK",
+  "id": "gh:coinbase:8265918",
+  "company": "Coinbase",
+  "category": "rails",
+  "title": "Senior Engineering Manager",
+  "location": "Remote - India",
   "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8012584003",
-  "posted": "2026-10-07",
-  "flags": [],
+  "url": "https://www.coinbase.com/careers/positions/8265918?gh_jid=8265918",
+  "posted": "2026-10-08",
+  "flags": [
+   "the environment is intense",
+   "not remote-only"
+  ],
   "scope_ok": true,
-  "mgmt_years_required": 3,
+  "mgmt_years_required": 2,
+  "scope_reason": "",
+  "mgmt_years_preferred": 2,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-coinbase-8265918.md",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09"
+ },
+ {
+  "id": "ab:relayfi:88630276-68bc-4383-8229-3cb435b4ae11",
+  "company": "Relay",
+  "category": "fintech",
+  "title": "Data Engineering Manager",
+  "location": "Toronto, ON",
+  "remote_us": false,
+  "url": "https://jobs.ashbyhq.com/relayfi/88630276-68bc-4383-8229-3cb435b4ae11",
+  "posted": "2026-10-08",
+  "flags": [
+   "relentlessly",
+   "relentless"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-affirm-8012584003.md",
-  "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08"
+  "focus": "backend",
+  "jd_file": "data/jd/ab-relayfi-88630276-68bc-4383-8229-3cb435b4ae11.md",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09"
  },
  {
-  "id": "gh:chime:8692366002",
-  "company": "Chime",
-  "category": "rails",
-  "title": "Tech Lead Manager, Platform",
-  "location": "San Francisco, CA, USA",
+  "id": "gh:stripe:8264421",
+  "company": "Stripe",
+  "category": "fintech",
+  "title": "Engineering Manager - Support Experience",
+  "location": "Dublin",
   "remote_us": false,
-  "url": "https://boards.greenhouse.io/chime/jobs/8692366002?gh_jid=8692366002",
-  "posted": "2026-10-07",
-  "flags": [
-   "player-coach",
-   "hustle"
-  ],
+  "url": "https://stripe.com/jobs/search?gh_jid=8264421",
+  "posted": "2026-10-09",
+  "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 2,
+  "mgmt_years_required": 3,
   "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 199000,
-    "max": 275000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 199000,
-   "max": 275000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 199000,
-   "max": 275000,
-   "label": "base"
-  },
+  "mgmt_years_preferred": 3,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-chime-8692366002.md",
-  "first_seen": "2026-10-08",
-  "last_seen": "2026-10-08"
+  "jd_file": "data/jd/gh-stripe-8264421.md",
+  "first_seen": "2026-10-09",
+  "last_seen": "2026-10-09"
  }
 ]

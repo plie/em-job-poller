@@ -1,63 +1,65 @@
 [
  {
-  "id": "gh:coinbase:8275226",
-  "company": "Coinbase",
-  "category": "rails",
-  "title": "Senior Engineering Manager, AI Foundations",
-  "location": "Remote - USA",
-  "remote_us": true,
-  "url": "https://www.coinbase.com/careers/positions/8275226?gh_jid=8275226",
-  "posted": "2026-10-12",
-  "flags": [
-   "the environment is intense",
-   "not remote-only"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 253895,
-    "max": 298700,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 253895,
-   "max": 298700,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 253895,
-   "max": 298700,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-coinbase-8275226.md",
-  "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13"
- },
- {
-  "id": "gh:melio:8029831003",
-  "company": "Melio",
+  "id": "gh:affirm:8015283003",
+  "company": "Affirm",
   "category": "fintech",
-  "title": "Engineering Manager, Partnerships",
-  "location": "Tel Aviv",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/melio/jobs/8029831003",
+  "title": "Manager, Software Engineering (App Infrastructure)",
+  "location": "Remote US",
+  "remote_us": true,
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8015283003",
   "posted": "2026-10-13",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 3,
   "scope_reason": "",
   "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 230000,
+    "max": 290000,
+    "label": "base"
+   },
+   {
+    "min": 204000,
+    "max": 264000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 230000,
+   "max": 290000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 204000,
+   "max": 264000,
+   "label": "base"
+  },
+  "focus": "frontend/mobile",
+  "jd_file": "data/jd/gh-affirm-8015283003.md",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
+ },
+ {
+  "id": "gh:stripe:7769005",
+  "company": "Stripe",
+  "category": "fintech",
+  "title": "Engineering Manager, Terminal",
+  "location": "Toronto, Canada",
+  "remote_us": false,
+  "url": "https://stripe.com/jobs/search?gh_jid=7769005",
+  "posted": "2026-10-13",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 5,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
-  "focus": "both",
-  "jd_file": "data/jd/gh-melio-8029831003.md",
-  "first_seen": "2026-10-13",
-  "last_seen": "2026-10-13"
+  "focus": "backend",
+  "jd_file": "data/jd/gh-stripe-7769005.md",
+  "first_seen": "2026-10-14",
+  "last_seen": "2026-10-14"
  }
 ]

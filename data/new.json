@@ -1,65 +1,70 @@
 [
  {
-  "id": "gh:affirm:8015283003",
-  "company": "Affirm",
+  "id": "ab:airwallex:a4a0c074-1f3f-4f17-b824-98cae00d8e41",
+  "company": "Airwallex",
   "category": "fintech",
-  "title": "Manager, Software Engineering (App Infrastructure)",
-  "location": "Remote US",
-  "remote_us": true,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8015283003",
-  "posted": "2026-10-13",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 3,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 230000,
-    "max": 290000,
-    "label": "base"
-   },
-   {
-    "min": 204000,
-    "max": 264000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 230000,
-   "max": 290000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 204000,
-   "max": 264000,
-   "label": "base"
-  },
-  "focus": "frontend/mobile",
-  "jd_file": "data/jd/gh-affirm-8015283003.md",
-  "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14"
- },
- {
-  "id": "gh:stripe:7769005",
-  "company": "Stripe",
-  "category": "fintech",
-  "title": "Engineering Manager, Terminal",
-  "location": "Toronto, Canada",
+  "title": "Engineering Manager, Issuing Platform",
+  "location": "SG - Singapore",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=7769005",
-  "posted": "2026-10-13",
+  "url": "https://jobs.ashbyhq.com/airwallex/a4a0c074-1f3f-4f17-b824-98cae00d8e41",
+  "posted": "2026-10-15",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 5,
+  "mgmt_years_required": 2,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-7769005.md",
-  "first_seen": "2026-10-14",
-  "last_seen": "2026-10-14"
+  "jd_file": "data/jd/ab-airwallex-a4a0c074-1f3f-4f17-b824-98cae00d8e41.md",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15"
+ },
+ {
+  "id": "ab:airwallex:c969fb7f-510a-4909-a89a-72009d22a45e",
+  "company": "Airwallex",
+  "category": "fintech",
+  "title": "Engineering Manager, GTPN Platform (Seoul)",
+  "location": "KR - Seoul",
+  "remote_us": false,
+  "url": "https://jobs.ashbyhq.com/airwallex/c969fb7f-510a-4909-a89a-72009d22a45e",
+  "posted": "2026-10-15",
+  "flags": [
+   "fast-paced"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/ab-airwallex-c969fb7f-510a-4909-a89a-72009d22a45e.md",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15"
+ },
+ {
+  "id": "ab:plaid:72c3cb1d-ec3d-4dd2-8fd4-4bd79e86c1f9",
+  "company": "Plaid",
+  "category": "fintech",
+  "title": "Engineering Manager - Network Health",
+  "location": "San Francisco HQ",
+  "remote_us": false,
+  "url": "https://jobs.ashbyhq.com/plaid/72c3cb1d-ec3d-4dd2-8fd4-4bd79e86c1f9",
+  "posted": "2026-10-14",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 2,
+  "scope_reason": "",
+  "mgmt_years_preferred": 2,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/ab-plaid-72c3cb1d-ec3d-4dd2-8fd4-4bd79e86c1f9.md",
+  "first_seen": "2026-10-15",
+  "last_seen": "2026-10-15"
  }
 ]

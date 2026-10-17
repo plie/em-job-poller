@@ -6,21 +6,13 @@
 ---
 1 in 4 people in the US have a treatable mental health condition, but most providers don't accept insurance, making therapy too expensive for most people. Headway’s mission is to fix this by building a new mental healthcare system everyone can access. We started by solving the biggest barrier to care: insurance. The admin work - credentialing, claims, payment reconciliation - is a nightmare. We've automated that.
 
-
-
 But we're going further. Over 85,000 providers across all 50 states run their practice on our software, serving over 1 million patients. We are building the best tools for therapists to run their entire practice, reimagining the experience of finding a therapist, and investing in the platform foundations to enable this at scale. We aren't just a billing layer; we are becoming the platform where care actually happens.
 
-
-
 We're a Series D company with $325M+ in funding (a16z, Accel, Spark Capital, etc.), looking for exceptional people to help us achieve this mission. We want your time here to be the most meaningful experience of your career. Join us, and help change mental healthcare for the better.
-
-
-
 
 ABOUT THE WEB PLATFORM TEAM AT HEADWAY
 
 Web Platform owns how Headway builds our frontend applications, including the UX. Web Platform sits in our Engineering Foundations organization, alongside our infrastructure and reliability team and our agentic engineering team. Every engineer who builds for the web at Headway builds on top of our work. When the platform is strong, product teams move faster and ship with higher quality. As the platform evolves to incorporate agentic engineering workflows, the team is positioned to become an even greater multiplier: using agents to build front-end code directly in line with Headway's standards, reducing the time and cognitive load product teams spend on front-end concerns so they can focus on business logic and product outcomes.
-
 
 THE TEAM WORKS ACROSS THREE AREAS:
 
@@ -29,7 +21,6 @@ THE TEAM WORKS ACROSS THREE AREAS:
  - Web architecture: We give engineers one clear way to build a Headway web app. This covers frameworks, build tooling, data loading, testing, performance, and accessibility across our patient, provider, internal, and marketing apps.
 
  - Agentic UI: Headway engineers build with AI agents every day. We want those agents to build UI to Headway's standards by default. That takes a design system, patterns, and docs that agents can read, plus automated checks (visual regression, accessibility, and design system conformance) so that agent-written UI ships with confidence.
-
 
 PRINCIPLES THAT GUIDE US:
 
@@ -40,7 +31,6 @@ PRINCIPLES THAT GUIDE US:
  - Everything is a product: Whether it's our patient search experience or a developer productivity improvement, we treat everything we build at Headway as a product with end-users in mind.
 
  - Optimize for trust: We believe that engineers should be continually learning. To learn effectively and to be productive, engineers must feel safe asking questions and discussing mistakes.
-
 
 TOOLS WE USE:
 
@@ -54,13 +44,11 @@ TOOLS WE USE:
 
  - AI Tools: Cursor, Claude, Gemini, Eddy (our in-house cloud agent harness)
 
-
 ABOUT THIS ROLE
 
 As the Senior Engineering Manager for Web Platform, you'll lead a small, senior team of five frontend engineers and own the vision for how Headway builds UI. This is the only role of its kind at Headway. You'll set the strategy for our design system and our web architecture, and you'll be the voice of frontend engineering across the company. The team doesn't have a dedicated product manager, so you'll set the roadmap with Design leadership and Engineering Foundations leadership, and you'll show the value of the work with clear metrics.
 
 You'll stay close to the code. We expect you to be comfortable opening PRs, reading and changing code with AI tools, and taking on small pieces of work yourself, especially in your first few months. Larger projects stay with the team.
-
 
 WHAT YOU'LL OWN
 
@@ -77,7 +65,6 @@ WHAT YOU'LL OWN
  - Frontend community: Grow our frontend guild at Headway. Learn from product engineers what's broken, and turn it into the roadmap.
 
  - Priorities and headcount: Decide among planned work, support requests, and new bets, and keep the team from becoming a help desk. Make the case for the team size that Headway's frontend needs.
-
 
 WHO YOU ARE
 
@@ -97,7 +84,6 @@ WHO YOU ARE
 
  - You like a fast pace. Most of your plans are measured in weeks or a few months.
 
-
 OUR INTERVIEW PROCESS
 
 After you apply to Headway, here are some details of what to expect during the interview process.
@@ -110,14 +96,8 @@ After you apply to Headway, here are some details of what to expect during the i
 
  - References and the Offer: Our favorite part of the process! We'll send over all of the details, including specifics on employee equity, and congratulatory messages from excited future team members!
 
-
-
 We believe a team's strength is in its people, and we cannot achieve this mission without a team that reflects the diversity of this problem – across race, ethnicity, gender, sexuality, age, national origin, religion, family status, disability, military status, and experience. Headway is committed to the full inclusion of all qualified individuals. As part of this commitment, Headway will ensure that persons with disabilities are provided with reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or receive other benefits and privileges of employment, please inform the recruiter when they contact you to schedule your interview.
 
-
-
 Headway participates in E-Verify. To learn more, click here. https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf
-
-
 
 A notice to Headway applicants: To protect yourself against phishing and recruitment fraud, please note that Headway only accepts applications through our official careers page at https://headway.co/careers. Headway will never refer you to external websites, ask for payment or personal information, or conduct interviews via messaging apps. All official communication will come from a @findheadway.com http://findheadway.com email address. If you are contacted by someone claiming to be from Headway via an unofficial channel, please do not share any information and report it as spam.

@@ -1,228 +1,103 @@
 [
  {
-  "id": "ab:headway:6c028013-11bf-4a29-9bb3-fe528db72cb9",
-  "company": "Headway",
-  "category": "vertical-saas",
-  "title": "Senior Engineering Manager, Web Platform",
-  "location": "Remote",
+  "id": "gh:affirm:8030973003",
+  "company": "Affirm",
+  "category": "fintech",
+  "title": "Manager, Software Engineering (Loans Lifecycle)",
+  "location": "Remote US",
   "remote_us": true,
-  "url": "https://jobs.ashbyhq.com/headway/6c028013-11bf-4a29-9bb3-fe528db72cb9",
-  "posted": "2026-10-15",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8030973003",
+  "posted": "2026-10-16",
   "flags": [],
-  "scope_ok": false,
-  "mgmt_years_required": null,
-  "scope_reason": "manages managers",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "frontend/mobile",
-  "jd_file": "data/jd/ab-headway-6c028013-11bf-4a29-9bb3-fe528db72cb9.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
- },
- {
-  "id": "gh:justworks:8180003",
-  "company": "Justworks",
-  "category": "vertical-saas",
-  "title": "Engineering Manager, Backend - International",
-  "location": "Toronto, Canada",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
-  "posted": "2026-10-15",
-  "flags": [
-   "player-coach"
-  ],
   "scope_ok": true,
-  "mgmt_years_required": 1,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-justworks-8180003.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
- },
- {
-  "id": "gh:justworks:8179998",
-  "company": "Justworks",
-  "category": "vertical-saas",
-  "title": "Engineering Manager, Backend - International",
-  "location": "New York, New York",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8179998?gh_jid=8179998",
-  "posted": "2026-10-15",
-  "flags": [
-   "player-coach"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": 1,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-justworks-8179998.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
- },
- {
-  "id": "gh:justworks:8180000",
-  "company": "Justworks",
-  "category": "vertical-saas",
-  "title": "Engineering Manager, Backend - International",
-  "location": "Mexico City, Mexico",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8180000?gh_jid=8180000",
-  "posted": "2026-10-15",
-  "flags": [
-   "player-coach"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": 1,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-justworks-8180000.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
- },
- {
-  "id": "gh:justworks:8179986",
-  "company": "Justworks",
-  "category": "vertical-saas",
-  "title": "Engineering Manager, Benefits",
-  "location": "New York, New York",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8179986?gh_jid=8179986",
-  "posted": "2026-10-15",
-  "flags": [
-   "player-coach"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": 1,
+  "mgmt_years_required": 2,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [
    {
-    "min": 212000,
-    "max": 274000,
+    "min": 230000,
+    "max": 290000,
+    "label": "base"
+   },
+   {
+    "min": 204000,
+    "max": 264000,
     "label": "base"
    }
   ],
   "salary_top": {
-   "min": 212000,
-   "max": 274000,
+   "min": 230000,
+   "max": 290000,
    "label": "base"
   },
   "salary_mine": {
-   "min": 212000,
-   "max": 274000,
+   "min": 204000,
+   "max": 264000,
    "label": "base"
   },
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-justworks-8179986.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
+  "focus": "backend",
+  "jd_file": "data/jd/gh-affirm-8030973003.md",
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17"
  },
  {
-  "id": "gh:justworks:8179992",
-  "company": "Justworks",
+  "id": "ab:headway:91137d3f-1546-4f26-949b-4c079990f5cf",
+  "company": "Headway",
   "category": "vertical-saas",
-  "title": "Engineering Manager, Growth Expansion",
-  "location": "New York, New York",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8179992?gh_jid=8179992",
-  "posted": "2026-10-15",
+  "title": "Senior Engineering Manager (Infrastructure)",
+  "location": "Remote",
+  "remote_us": true,
+  "url": "https://jobs.ashbyhq.com/headway/91137d3f-1546-4f26-949b-4c079990f5cf",
+  "posted": "2026-10-17",
   "flags": [
-   "player-coach"
+   "on-call rotation"
   ],
-  "scope_ok": true,
-  "mgmt_years_required": 1,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-justworks-8179992.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
- },
- {
-  "id": "gh:justworks:8179993",
-  "company": "Justworks",
-  "category": "vertical-saas",
-  "title": "Engineering Manager, Product Foundations",
-  "location": "New York, New York",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8179993?gh_jid=8179993",
-  "posted": "2026-10-15",
-  "flags": [
-   "player-coach"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": 1,
-  "scope_reason": "",
+  "scope_ok": false,
+  "mgmt_years_required": 7,
+  "scope_reason": "asks 7+ years managing",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-justworks-8179993.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
+  "jd_file": "data/jd/ab-headway-91137d3f-1546-4f26-949b-4c079990f5cf.md",
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17"
  },
  {
-  "id": "gh:justworks:8179994",
-  "company": "Justworks",
-  "category": "vertical-saas",
-  "title": "Engineering Manager, Tax Compliance",
-  "location": "New York, New York",
+  "id": "ab:notion:e9bf7ffa-9cf2-4360-a2e4-e9fa66859927",
+  "company": "Notion",
+  "category": "rails",
+  "title": "Engineering Manager, Data Platform Foundations",
+  "location": "San Francisco, California",
   "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8179994?gh_jid=8179994",
-  "posted": "2026-10-15",
-  "flags": [
-   "player-coach"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": 1,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-justworks-8179994.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
- },
- {
-  "id": "gh:stripe:8238489",
-  "company": "Stripe",
-  "category": "fintech",
-  "title": "Engineering Manager, Self Serve Direct Onboarding",
-  "location": "New York City, San Francisco, Seattle",
-  "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8238489",
-  "posted": "2026-10-15",
+  "url": "https://jobs.ashbyhq.com/notion/e9bf7ffa-9cf2-4360-a2e4-e9fa66859927",
+  "posted": "2026-09-21",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 4,
+  "mgmt_years_required": null,
   "scope_reason": "",
   "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
+  "salary_ranges": [
+   {
+    "min": 281000,
+    "max": 334000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 281000,
+   "max": 334000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 281000,
+   "max": 334000,
+   "label": "base"
+  },
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8238489.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-16"
+  "jd_file": "data/jd/ab-notion-e9bf7ffa-9cf2-4360-a2e4-e9fa66859927.md",
+  "first_seen": "2026-10-17",
+  "last_seen": "2026-10-17"
  }
 ]

@@ -1,6 +1,12 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "errors": [
+  {
+   "company": "Kin Insurance",
+   "ats": "ashby",
+   "slug": "kin",
+   "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://api.ashbyhq.com/posting-api/job-board/kin"
+  },
   {
    "company": "Owner.com",
    "ats": "lever",

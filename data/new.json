@@ -1,171 +1,24 @@
 [
  {
-  "id": "gh:betterment:8289780",
-  "company": "Betterment",
-  "category": "fintech",
-  "title": "Sr. Engineering Manager, Advisor Solutions",
-  "location": "Betterment HQ - New York City",
-  "remote_us": false,
-  "url": "https://www.betterment.com/careers/current-openings/job?gh_jid=8289780&gh_jid=8289780",
-  "posted": "2026-10-19",
-  "flags": [
-   "player coach",
-   "sense of urgency"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 200000,
-    "max": 230000,
-    "label": "new york"
-   }
-  ],
-  "salary_top": {
-   "min": 200000,
-   "max": 230000,
-   "label": "new york"
-  },
-  "salary_mine": {
-   "min": 200000,
-   "max": 230000,
-   "label": "new york"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-betterment-8289780.md",
-  "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20"
- },
- {
-  "id": "gh:figma:6138981004",
-  "company": "Figma",
+  "id": "gh:intercom:7541123",
+  "company": "Intercom",
   "category": "rails",
-  "title": "Manager, Software Engineering - AI Infrastructure",
-  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+  "title": "Engineering Manager, AI Group",
+  "location": "Berlin, Germany",
   "remote_us": false,
-  "url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004",
-  "posted": "2026-10-19",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 3,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 258000,
-    "max": 376000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-figma-6138981004.md",
-  "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20"
- },
- {
-  "id": "gh:figma:6224661004",
-  "company": "Figma",
-  "category": "rails",
-  "title": "Manager, Software Engineering - External Platform",
-  "location": "New York, NY \u2022 United States",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/figma/jobs/6224661004?gh_jid=6224661004",
-  "posted": "2026-10-19",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 3,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 258000,
-    "max": 376000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-figma-6224661004.md",
-  "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20"
- },
- {
-  "id": "gh:figma:6223657004",
-  "company": "Figma",
-  "category": "rails",
-  "title": "Manager, Software Engineering - Production Engineering",
-  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/figma/jobs/6223657004?gh_jid=6223657004",
-  "posted": "2026-10-19",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 258000,
-    "max": 376000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-figma-6223657004.md",
-  "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20"
- },
- {
-  "id": "gh:stripe:8282169",
-  "company": "Stripe",
-  "category": "fintech",
-  "title": "Engineering Manager, Money as a Service (MaaS)",
-  "location": "Singapore",
-  "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8282169",
+  "url": "https://job-boards.greenhouse.io/intercom/jobs/7541123",
   "posted": "2026-10-20",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 3,
+  "mgmt_years_required": null,
   "scope_reason": "",
-  "mgmt_years_preferred": 3,
+  "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8282169.md",
-  "first_seen": "2026-10-20",
-  "last_seen": "2026-10-20"
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-intercom-7541123.md",
+  "first_seen": "2026-10-21",
+  "last_seen": "2026-10-21"
  }
 ]

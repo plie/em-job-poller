@@ -1,24 +1,136 @@
 [
  {
-  "id": "ab:plaid:229eb28e-a8ab-41a9-97ca-b59c77793d65",
-  "company": "Plaid",
+  "id": "gh:brex:8912607002",
+  "company": "Brex",
   "category": "fintech",
-  "title": "Engineering Manager - Consumer",
-  "location": "San Francisco HQ",
+  "title": "Accounting Partner Growth Manager",
+  "location": "New York, New York, United States",
   "remote_us": false,
-  "url": "https://jobs.ashbyhq.com/plaid/229eb28e-a8ab-41a9-97ca-b59c77793d65",
-  "posted": "2026-10-22",
+  "url": "https://www.brex.com/careers/8912607002?gh_jid=8912607002",
+  "posted": "2026-10-23",
+  "flags": [
+   "fast-paced"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 135600,
+    "max": 169500,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 135600,
+   "max": 169500,
+   "label": ""
+  },
+  "salary_mine": {
+   "min": 135600,
+   "max": 169500,
+   "label": ""
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-brex-8912607002.md",
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24"
+ },
+ {
+  "id": "gh:brex:8912606002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Accounting Partner Growth Manager",
+  "location": "San Francisco, California, United States",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8912606002?gh_jid=8912606002",
+  "posted": "2026-10-23",
+  "flags": [
+   "fast-paced"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 135600,
+    "max": 169500,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 135600,
+   "max": 169500,
+   "label": ""
+  },
+  "salary_mine": {
+   "min": 135600,
+   "max": 169500,
+   "label": ""
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-brex-8912606002.md",
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24"
+ },
+ {
+  "id": "gh:figma:6010279004",
+  "company": "Figma",
+  "category": "rails",
+  "title": "Manager, Software Engineering - Growth Platform",
+  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/figma/jobs/6010279004?gh_jid=6010279004",
+  "posted": "2026-10-23",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 2,
+  "mgmt_years_required": 3,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 258000,
+    "max": 376000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 258000,
+   "max": 376000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 258000,
+   "max": 376000,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-figma-6010279004.md",
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24"
+ },
+ {
+  "id": "gh:gitlab:8899972002",
+  "company": "GitLab",
+  "category": "rails",
+  "title": "Engineering Manager, Tenant Scale: Gitaly",
+  "location": "Remote, United Kingdom",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8899972002",
+  "posted": "2026-10-23",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/ab-plaid-229eb28e-a8ab-41a9-97ca-b59c77793d65.md",
-  "first_seen": "2026-10-23",
-  "last_seen": "2026-10-23"
+  "jd_file": "data/jd/gh-gitlab-8899972002.md",
+  "first_seen": "2026-10-24",
+  "last_seen": "2026-10-24"
  }
 ]

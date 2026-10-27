@@ -1,1 +1,43 @@
-[]
+[
+ {
+  "id": "gh:mercury:6235277004",
+  "company": "Mercury",
+  "category": "fintech",
+  "title": "Senior Engineering Manager - GTM",
+  "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+  "remote_us": true,
+  "url": "https://job-boards.greenhouse.io/mercury/jobs/6235277004",
+  "posted": "2026-10-26",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 239000,
+    "max": 298800,
+    "label": "base"
+   },
+   {
+    "min": 225900,
+    "max": 282400,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 239000,
+   "max": 298800,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 225900,
+   "max": 282400,
+   "label": ""
+  },
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-mercury-6235277004.md",
+  "first_seen": "2026-10-27",
+  "last_seen": "2026-10-27"
+ }
+]

@@ -41,7 +41,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-boulevard-4597174006.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:brightwheel:b8543eb2-9f6e-4955-94fd-f02e013bf618",
@@ -63,7 +63,7 @@
   "focus": "both",
   "jd_file": "data/jd/ab-brightwheel-b8543eb2-9f6e-4955-94fd-f02e013bf618.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:coinbase:8138031",
@@ -102,17 +102,17 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-coinbase-8138031.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8478405002",
   "company": "GitLab",
   "category": "rails",
   "title": "Engineering Manager, SSCS: Supply Chain",
-  "location": "Bangalore, India; Remote, Australia; Remote, Canada; Remote, Israel; Remote, United States",
+  "location": "Bangalore, India; Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478405002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-29",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -124,7 +124,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8478405002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:instacart:8084349",
@@ -178,7 +178,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-instacart-8084349.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:jobber:2f106ee0-8280-4e77-ba0e-7870d0807363",
@@ -200,7 +200,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/ab-jobber-2f106ee0-8280-4e77-ba0e-7870d0807363.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:mercury:6201177004",
@@ -210,7 +210,7 @@
   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/mercury/jobs/6201177004",
-  "posted": "2026-09-30",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 3,
@@ -241,7 +241,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-mercury-6201177004.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:mercury:6196335004",
@@ -251,7 +251,7 @@
   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/mercury/jobs/6196335004",
-  "posted": "2026-09-30",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 3,
@@ -282,7 +282,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-mercury-6196335004.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:signifyd95:8172149",
@@ -335,7 +335,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-signifyd95-8172149.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:signifyd95:8126825",
@@ -383,7 +383,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-signifyd95-8126825.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8180536",
@@ -407,7 +407,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8180536.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:7688358",
@@ -429,53 +429,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-7688358.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:toast:8144016",
-  "company": "Toast",
-  "category": "fintech",
-  "title": "Senior Software Engineering Manager, ToastNow",
-  "location": "Remote US",
-  "remote_us": true,
-  "url": "https://careers.toasttab.com/jobs?gh_jid=8144016",
-  "posted": "2026-09-09",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 230000,
-    "max": 368000,
-    "label": ""
-   },
-   {
-    "min": 200000,
-    "max": 320000,
-    "label": ""
-   },
-   {
-    "min": 180000,
-    "max": 288000,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 230000,
-   "max": 368000,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 200000,
-   "max": 320000,
-   "label": ""
-  },
-  "focus": "both",
-  "jd_file": "data/jd/gh-toast-8144016.md",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:kin:e0f8b5f9-2b33-46d6-bf4f-34c16a13e711",
@@ -501,7 +455,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-kin-e0f8b5f9-2b33-46d6-bf4f-34c16a13e711.md",
   "first_seen": "2026-09-26",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:affirm:7999870003",
@@ -544,7 +498,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-affirm-7999870003.md",
   "first_seen": "2026-09-29",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:mercury:6216179004",
@@ -554,7 +508,7 @@
   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/mercury/jobs/6216179004",
-  "posted": "2026-10-02",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 5,
@@ -585,7 +539,7 @@
   "focus": "frontend/mobile",
   "jd_file": "data/jd/gh-mercury-6216179004.md",
   "first_seen": "2026-10-03",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8845322002",
@@ -595,7 +549,7 @@
   "location": "Remote, Canada; Remote, United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845322002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -621,7 +575,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8845322002.md",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:mercury:6217141004",
@@ -631,7 +585,7 @@
   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/mercury/jobs/6217141004",
-  "posted": "2026-10-05",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -662,7 +616,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-mercury-6217141004.md",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8229361",
@@ -684,7 +638,7 @@
   "focus": "frontend/mobile",
   "jd_file": "data/jd/gh-stripe-8229361.md",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:federato:5444353008",
@@ -722,7 +676,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-federato-5444353008.md",
   "first_seen": "2026-10-07",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:zocdoc:8155444",
@@ -760,7 +714,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-zocdoc-8155444.md",
   "first_seen": "2026-10-10",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:coinbase:8275226",
@@ -799,7 +753,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-coinbase-8275226.md",
   "first_seen": "2026-10-13",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:headway:6c028013-11bf-4a29-9bb3-fe528db72cb9",
@@ -821,7 +775,7 @@
   "focus": "frontend/mobile",
   "jd_file": "data/jd/ab-headway-6c028013-11bf-4a29-9bb3-fe528db72cb9.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:affirm:8030973003",
@@ -862,7 +816,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-affirm-8030973003.md",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:headway:91137d3f-1546-4f26-949b-4c079990f5cf",
@@ -886,7 +840,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-headway-91137d3f-1546-4f26-949b-4c079990f5cf.md",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8899972002",
@@ -896,7 +850,7 @@
   "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8899972002",
-  "posted": "2026-10-27",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -908,7 +862,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8899972002.md",
   "first_seen": "2026-10-24",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:mercury:6235277004",
@@ -918,7 +872,7 @@
   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
   "remote_us": true,
   "url": "https://job-boards.greenhouse.io/mercury/jobs/6235277004",
-  "posted": "2026-10-26",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -949,7 +903,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-mercury-6235277004.md",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:affirm:7701909003",
@@ -971,7 +925,46 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-affirm-7701909003.md",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:coinbase:8124224",
+  "company": "Coinbase",
+  "category": "rails",
+  "title": "Senior Engineering Manager, Payments Platform",
+  "location": "Remote - USA",
+  "remote_us": true,
+  "url": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224",
+  "posted": "2026-10-28",
+  "flags": [
+   "the environment is intense",
+   "not remote-only"
+  ],
+  "scope_ok": false,
+  "mgmt_years_required": 2,
+  "scope_reason": "manages managers",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 253895,
+    "max": 298700,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 253895,
+   "max": 298700,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 253895,
+   "max": 298700,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-coinbase-8124224.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:addepar1:8709078002",
@@ -995,7 +988,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-addepar1-8709078002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:airwallex:8323ef8a-a728-41a6-a82d-addb2d645a85",
@@ -1017,7 +1010,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-airwallex-8323ef8a-a728-41a6-a82d-addb2d645a85.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:airwallex:65c33a72-d6e5-4fe3-b39b-048b08e411e0",
@@ -1039,43 +1032,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-airwallex-65c33a72-d6e5-4fe3-b39b-048b08e411e0.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:brex:8797771002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Engineering Manager, Bill Pay",
-  "location": "Vancouver, British Columbia, Canada",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8797771002?gh_jid=8797771002",
-  "posted": "2026-09-10",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 2,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 240000,
-    "max": 285000,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 240000,
-   "max": 285000,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 240000,
-   "max": 285000,
-   "label": ""
-  },
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-brex-8797771002.md",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:brex:8797770002",
@@ -1111,43 +1068,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-brex-8797770002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:brex:8797769002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Engineering Manager, Bill Pay",
-  "location": "New York, New York, United States",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8797769002?gh_jid=8797769002",
-  "posted": "2026-09-10",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 2,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 240000,
-    "max": 285000,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 240000,
-   "max": 285000,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 240000,
-   "max": 285000,
-   "label": ""
-  },
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-brex-8797769002.md",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:brex:8782795002",
@@ -1183,73 +1104,79 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-brex-8782795002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
-  "id": "gh:brex:8641195002",
+  "id": "gh:brex:8797771002",
   "company": "Brex",
   "category": "fintech",
-  "title": "Engineering Manager, Travel",
+  "title": "Engineering Manager, Bill Pay",
   "location": "Vancouver, British Columbia, Canada",
   "remote_us": false,
-  "url": "https://www.brex.com/careers/8641195002?gh_jid=8641195002",
-  "posted": "2026-10-19",
+  "url": "https://www.brex.com/careers/8797771002?gh_jid=8797771002",
+  "posted": "2026-09-10",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": null,
+  "mgmt_years_required": 2,
   "scope_reason": "",
   "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
+  "salary_ranges": [
+   {
+    "min": 240000,
+    "max": 285000,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 240000,
+   "max": 285000,
+   "label": ""
+  },
+  "salary_mine": {
+   "min": 240000,
+   "max": 285000,
+   "label": ""
+  },
   "focus": "unspecified",
-  "jd_file": "data/jd/gh-brex-8641195002.md",
+  "jd_file": "data/jd/gh-brex-8797771002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
-  "id": "gh:brex:8641194002",
+  "id": "gh:brex:8797769002",
   "company": "Brex",
   "category": "fintech",
-  "title": "Engineering Manager, Travel",
-  "location": "San Francisco, California, United States",
+  "title": "Engineering Manager, Bill Pay",
+  "location": "New York, New York, United States",
   "remote_us": false,
-  "url": "https://www.brex.com/careers/8641194002?gh_jid=8641194002",
-  "posted": "2026-10-19",
+  "url": "https://www.brex.com/careers/8797769002?gh_jid=8797769002",
+  "posted": "2026-09-10",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": null,
+  "mgmt_years_required": 2,
   "scope_reason": "",
   "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
+  "salary_ranges": [
+   {
+    "min": 240000,
+    "max": 285000,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 240000,
+   "max": 285000,
+   "label": ""
+  },
+  "salary_mine": {
+   "min": 240000,
+   "max": 285000,
+   "label": ""
+  },
   "focus": "unspecified",
-  "jd_file": "data/jd/gh-brex-8641194002.md",
+  "jd_file": "data/jd/gh-brex-8797769002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:brex:8623291002",
-  "company": "Brex",
-  "category": "fintech",
-  "title": "Engineering Manager, Travel",
-  "location": "Seattle, Washington, United States",
-  "remote_us": false,
-  "url": "https://www.brex.com/careers/8623291002?gh_jid=8623291002",
-  "posted": "2026-10-19",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-brex-8623291002.md",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:brex:8641189002",
@@ -1271,7 +1198,73 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-brex-8641189002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:brex:8623291002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Engineering Manager, Travel",
+  "location": "Seattle, Washington, United States",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8623291002?gh_jid=8623291002",
+  "posted": "2026-10-19",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-brex-8623291002.md",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:brex:8641195002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Engineering Manager, Travel",
+  "location": "Vancouver, British Columbia, Canada",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8641195002?gh_jid=8641195002",
+  "posted": "2026-10-19",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-brex-8641195002.md",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:brex:8641194002",
+  "company": "Brex",
+  "category": "fintech",
+  "title": "Engineering Manager, Travel",
+  "location": "San Francisco, California, United States",
+  "remote_us": false,
+  "url": "https://www.brex.com/careers/8641194002?gh_jid=8641194002",
+  "posted": "2026-10-19",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-brex-8641194002.md",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:chime:8609159002",
@@ -1295,7 +1288,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-chime-8609159002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:chime:8322483002",
@@ -1319,7 +1312,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-chime-8322483002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:chime:8525743002",
@@ -1345,7 +1338,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-chime-8525743002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:chime:8795524002",
@@ -1369,7 +1362,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-chime-8795524002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:chime:8535340002",
@@ -1393,7 +1386,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-chime-8535340002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:current81:8156898",
@@ -1429,7 +1422,7 @@
   "focus": "frontend/mobile",
   "jd_file": "data/jd/gh-current81-8156898.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:ethoslife:8741979002",
@@ -1453,7 +1446,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-ethoslife-8741979002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:figma:5807963004",
@@ -1489,7 +1482,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-figma-5807963004.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:figma:5722244004",
@@ -1525,7 +1518,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-figma-5722244004.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:figma:6008752004",
@@ -1563,7 +1556,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-figma-6008752004.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8586667002",
@@ -1573,7 +1566,7 @@
   "location": "Remote, United Kingdom",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8586667002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -1585,7 +1578,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8586667002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8636648002",
@@ -1595,7 +1588,7 @@
   "location": "Remote, United Kingdom",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8636648002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -1607,7 +1600,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8636648002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8725225002",
@@ -1617,7 +1610,7 @@
   "location": "Bangalore, India",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8725225002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -1629,7 +1622,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8725225002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8626740002",
@@ -1639,7 +1632,7 @@
   "location": "Bangalore, India",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8626740002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -1651,7 +1644,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8626740002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8632388002",
@@ -1661,7 +1654,7 @@
   "location": "Bangalore, India",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8632388002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -1673,7 +1666,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8632388002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8586632002",
@@ -1683,7 +1676,7 @@
   "location": "Remote, United Kingdom",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8586632002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
@@ -1695,7 +1688,7 @@
   "focus": "both",
   "jd_file": "data/jd/gh-gitlab-8586632002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8755524002",
@@ -1705,7 +1698,7 @@
   "location": "Bangalore, India",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8755524002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [
    "on-call rotation"
   ],
@@ -1719,7 +1712,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8755524002.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:harperinsure:fb090823-feb9-430f-b193-68dee922386b",
@@ -1755,7 +1748,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/ab-harperinsure-fb090823-feb9-430f-b193-68dee922386b.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:harperinsure:081b2871-a11f-4d89-b6fe-922a12dcfb2e",
@@ -1793,7 +1786,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-harperinsure-081b2871-a11f-4d89-b6fe-922a12dcfb2e.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:headway:a7634532-7934-4948-9e5e-0ca0d15e5e46",
@@ -1829,7 +1822,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-headway-a7634532-7934-4948-9e5e-0ca0d15e5e46.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:headway:e931863d-0a70-4a55-b8fc-ef64c445be3f",
@@ -1865,7 +1858,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-headway-e931863d-0a70-4a55-b8fc-ef64c445be3f.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:headway:5986b67d-4ded-4280-8b28-dcb41f120f62",
@@ -1901,7 +1894,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-headway-5986b67d-4ded-4280-8b28-dcb41f120f62.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:headway:6894c152-cc8e-431a-85a4-131f4b885b95",
@@ -1937,7 +1930,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-headway-6894c152-cc8e-431a-85a4-131f4b885b95.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:headway:748fe666-44a1-4509-af9f-6ce6c3252e12",
@@ -1973,7 +1966,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-headway-748fe666-44a1-4509-af9f-6ce6c3252e12.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:instacart:8084350",
@@ -2012,7 +2005,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-instacart-8084350.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:intercom:7784684",
@@ -2034,7 +2027,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-intercom-7784684.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:mindbody:4700953006",
@@ -2070,7 +2063,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-mindbody-4700953006.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:notion:3979a6f5-2abb-447b-bd3a-0565b06bae24",
@@ -2106,7 +2099,7 @@
   "focus": "frontend/mobile",
   "jd_file": "data/jd/ab-notion-3979a6f5-2abb-447b-bd3a-0565b06bae24.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:orb:96e1fa18-4427-4f17-906b-fbd1d670f6be",
@@ -2128,7 +2121,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-orb-96e1fa18-4427-4f17-906b-fbd1d670f6be.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:plaid:3b205208-b07b-4acd-8abc-09f0fd0f88f1",
@@ -2150,7 +2143,7 @@
   "focus": "frontend/mobile",
   "jd_file": "data/jd/ab-plaid-3b205208-b07b-4acd-8abc-09f0fd0f88f1.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:plaid:99398882-3594-46ce-9fa6-98fed631b3c6",
@@ -2172,7 +2165,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-plaid-99398882-3594-46ce-9fa6-98fed631b3c6.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:plaid:c9e63b56-5382-4438-ad2d-1b1ccd29c57a",
@@ -2194,7 +2187,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/ab-plaid-c9e63b56-5382-4438-ad2d-1b1ccd29c57a.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:relayfi:556b64c5-6fe0-4822-aeb6-07cb7a2d8b01",
@@ -2219,7 +2212,7 @@
   "focus": "both",
   "jd_file": "data/jd/ab-relayfi-556b64c5-6fe0-4822-aeb6-07cb7a2d8b01.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:relayfi:8c2d7759-8ea8-4752-aba9-89029be9c8f3",
@@ -2244,7 +2237,43 @@
   "focus": "both",
   "jd_file": "data/jd/ab-relayfi-8c2d7759-8ea8-4752-aba9-89029be9c8f3.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:robinhood:8175215",
+  "company": "Robinhood",
+  "category": "fintech",
+  "title": "Engineering Manager, International",
+  "location": "Toronto, Canada",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/robinhood/jobs/8175215?t=gh_src=&gh_jid=8175215",
+  "posted": "2026-10-20",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 2,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 200000,
+    "max": 235000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 200000,
+   "max": 235000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 200000,
+   "max": 235000,
+   "label": "base"
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-robinhood-8175215.md",
+  "first_seen": "2026-09-21",
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:robinhood:8175213",
@@ -2290,43 +2319,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-robinhood-8175213.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:robinhood:8175215",
-  "company": "Robinhood",
-  "category": "fintech",
-  "title": "Engineering Manager, International",
-  "location": "Toronto, Canada",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/robinhood/jobs/8175215?t=gh_src=&gh_jid=8175215",
-  "posted": "2026-10-20",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 2,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 200000,
-    "max": 235000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 200000,
-   "max": 235000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 200000,
-   "max": 235000,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-robinhood-8175215.md",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:robinhood:8142909",
@@ -2364,7 +2357,7 @@
   "focus": "both",
   "jd_file": "data/jd/gh-robinhood-8142909.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:signifyd95:8130353",
@@ -2388,43 +2381,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-signifyd95-8130353.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:simplepractice55:6151430004",
-  "company": "SimplePractice",
-  "category": "vertical-saas",
-  "title": "Senior Engineering Manager, Identity & Trust",
-  "location": "United States",
-  "remote_us": false,
-  "url": "https://www.simplepractice.com/careers/roles/6151430004?gh_jid=6151430004",
-  "posted": "2026-09-10",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 5,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 200000,
-    "max": 240000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 200000,
-   "max": 240000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 200000,
-   "max": 240000,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-simplepractice55-6151430004.md",
-  "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:7943804",
@@ -2446,7 +2403,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-7943804.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8161567",
@@ -2468,7 +2425,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8161567.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:7947546",
@@ -2490,7 +2447,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-7947546.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8128496",
@@ -2512,7 +2469,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8128496.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8205280",
@@ -2534,7 +2491,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8205280.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8069506",
@@ -2556,7 +2513,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8069506.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8124299",
@@ -2578,7 +2535,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8124299.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8165515",
@@ -2600,7 +2557,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8165515.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:vercel:5701765004",
@@ -2622,7 +2579,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-vercel-5701765004.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "lv:wealthfront:5cead124-1663-4ae2-9c28-708e1dee1ad7",
@@ -2644,7 +2601,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/lv-wealthfront-5cead124-1663-4ae2-9c28-708e1dee1ad7.md",
   "first_seen": "2026-09-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:addepar1:8816123002",
@@ -2680,7 +2637,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-addepar1-8816123002.md",
   "first_seen": "2026-09-23",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:vercel:6115908004",
@@ -2716,7 +2673,7 @@
   "focus": "both",
   "jd_file": "data/jd/gh-vercel-6115908004.md",
   "first_seen": "2026-09-23",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:vercel:6140055004",
@@ -2752,7 +2709,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-vercel-6140055004.md",
   "first_seen": "2026-09-23",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:betterment:8212254",
@@ -2790,7 +2747,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-betterment-8212254.md",
   "first_seen": "2026-09-24",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8230300",
@@ -2812,7 +2769,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8230300.md",
   "first_seen": "2026-09-25",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:gitlab:8799044002",
@@ -2822,7 +2779,7 @@
   "location": "Bangalore, India",
   "remote_us": false,
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8799044002",
-  "posted": "2026-10-15",
+  "posted": "2026-10-28",
   "flags": [
    "on-call rotation",
    "incident triag"
@@ -2837,7 +2794,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-gitlab-8799044002.md",
   "first_seen": "2026-09-26",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:toast:8233456",
@@ -2859,7 +2816,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-toast-8233456.md",
   "first_seen": "2026-09-26",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8234252",
@@ -2881,7 +2838,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8234252.md",
   "first_seen": "2026-09-28",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "lv:finix:f1dbf40c-753a-429c-af14-a1d6ec6147df",
@@ -2903,7 +2860,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/lv-finix-f1dbf40c-753a-429c-af14-a1d6ec6147df.md",
   "first_seen": "2026-09-29",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:robinhood:8205579",
@@ -2944,7 +2901,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-robinhood-8205579.md",
   "first_seen": "2026-09-29",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:relayfi:dab131e1-9891-4f51-8410-ee4ad54a9031",
@@ -2969,7 +2926,7 @@
   "focus": "both",
   "jd_file": "data/jd/ab-relayfi-dab131e1-9891-4f51-8410-ee4ad54a9031.md",
   "first_seen": "2026-09-30",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:addepar1:8855767002",
@@ -2991,7 +2948,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-addepar1-8855767002.md",
   "first_seen": "2026-10-02",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:chime:8733757002",
@@ -3030,7 +2987,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-chime-8733757002.md",
   "first_seen": "2026-10-02",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:addepar1:8853131002",
@@ -3052,7 +3009,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-addepar1-8853131002.md",
   "first_seen": "2026-10-06",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:affirm:8012584003",
@@ -3074,7 +3031,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-affirm-8012584003.md",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:chime:8692366002",
@@ -3113,7 +3070,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-chime-8692366002.md",
   "first_seen": "2026-10-08",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:coinbase:8265918",
@@ -3138,7 +3095,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-coinbase-8265918.md",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:relayfi:88630276-68bc-4383-8229-3cb435b4ae11",
@@ -3163,7 +3120,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-relayfi-88630276-68bc-4383-8229-3cb435b4ae11.md",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8264421",
@@ -3185,29 +3142,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8264421.md",
   "first_seen": "2026-10-09",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:melio:8029831003",
-  "company": "Melio",
-  "category": "fintech",
-  "title": "Engineering Manager, Partnerships",
-  "location": "Tel Aviv",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/melio/jobs/8029831003",
-  "posted": "2026-10-13",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 3,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "both",
-  "jd_file": "data/jd/gh-melio-8029831003.md",
-  "first_seen": "2026-10-13",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:7769005",
@@ -3229,7 +3164,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-7769005.md",
   "first_seen": "2026-10-14",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:airwallex:a4a0c074-1f3f-4f17-b824-98cae00d8e41",
@@ -3251,7 +3186,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-airwallex-a4a0c074-1f3f-4f17-b824-98cae00d8e41.md",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:airwallex:c969fb7f-510a-4909-a89a-72009d22a45e",
@@ -3275,7 +3210,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-airwallex-c969fb7f-510a-4909-a89a-72009d22a45e.md",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:plaid:72c3cb1d-ec3d-4dd2-8fd4-4bd79e86c1f9",
@@ -3297,7 +3232,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/ab-plaid-72c3cb1d-ec3d-4dd2-8fd4-4bd79e86c1f9.md",
   "first_seen": "2026-10-15",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:justworks:8180000",
@@ -3321,31 +3256,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-justworks-8180000.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:justworks:8180003",
-  "company": "Justworks",
-  "category": "vertical-saas",
-  "title": "Engineering Manager, Backend - International",
-  "location": "Toronto, Canada",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
-  "posted": "2026-10-16",
-  "flags": [
-   "player-coach"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": 1,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-justworks-8180003.md",
-  "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:justworks:8179998",
@@ -3369,7 +3280,31 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-justworks-8179998.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:justworks:8180003",
+  "company": "Justworks",
+  "category": "vertical-saas",
+  "title": "Engineering Manager, Backend - International",
+  "location": "Toronto, Canada",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/justworks/jobs/8180003?gh_jid=8180003",
+  "posted": "2026-10-16",
+  "flags": [
+   "player-coach"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": 1,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-justworks-8180003.md",
+  "first_seen": "2026-10-16",
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:justworks:8179986",
@@ -3407,7 +3342,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-justworks-8179986.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:justworks:8179992",
@@ -3431,7 +3366,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-justworks-8179992.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:justworks:8179993",
@@ -3455,7 +3390,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-justworks-8179993.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:justworks:8179994",
@@ -3479,7 +3414,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-justworks-8179994.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8238489",
@@ -3501,7 +3436,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8238489.md",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:notion:e9bf7ffa-9cf2-4360-a2e4-e9fa66859927",
@@ -3537,7 +3472,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-notion-e9bf7ffa-9cf2-4360-a2e4-e9fa66859927.md",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:betterment:8289780",
@@ -3576,7 +3511,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-betterment-8289780.md",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:figma:6138981004",
@@ -3612,7 +3547,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-figma-6138981004.md",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:figma:6224661004",
@@ -3648,7 +3583,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-figma-6224661004.md",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:figma:6223657004",
@@ -3684,7 +3619,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-figma-6223657004.md",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8282169",
@@ -3706,7 +3641,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8282169.md",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:intercom:7541123",
@@ -3728,7 +3663,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-intercom-7541123.md",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:airwallex:252a825e-ac40-41fa-b12e-dda400167e68",
@@ -3750,7 +3685,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-airwallex-252a825e-ac40-41fa-b12e-dda400167e68.md",
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8256027",
@@ -3774,7 +3709,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8256027.md",
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:stripe:8301946",
@@ -3796,7 +3731,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-stripe-8301946.md",
   "first_seen": "2026-10-22",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "ab:plaid:229eb28e-a8ab-41a9-97ca-b59c77793d65",
@@ -3818,7 +3753,7 @@
   "focus": "backend",
   "jd_file": "data/jd/ab-plaid-229eb28e-a8ab-41a9-97ca-b59c77793d65.md",
   "first_seen": "2026-10-23",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:brex:8912607002",
@@ -3856,7 +3791,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-brex-8912607002.md",
   "first_seen": "2026-10-24",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:brex:8912606002",
@@ -3894,7 +3829,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-brex-8912606002.md",
   "first_seen": "2026-10-24",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:figma:6010279004",
@@ -3930,7 +3865,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-figma-6010279004.md",
   "first_seen": "2026-10-24",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:affirm:7701911003",
@@ -3952,7 +3887,7 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-affirm-7701911003.md",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:affirm:8043027003",
@@ -3976,7 +3911,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-affirm-8043027003.md",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:affirm:8043029003",
@@ -4012,7 +3947,7 @@
   "focus": "unspecified",
   "jd_file": "data/jd/gh-affirm-8043029003.md",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
  },
  {
   "id": "gh:mindbody:4719250006",
@@ -4034,6 +3969,89 @@
   "focus": "backend",
   "jd_file": "data/jd/gh-mindbody-4719250006.md",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:figma:6237757004",
+  "company": "Figma",
+  "category": "rails",
+  "title": "Manager, Software Engineering - UX Platform",
+  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/figma/jobs/6237757004?gh_jid=6237757004",
+  "posted": "2026-10-28",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 2,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 258000,
+    "max": 376000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 258000,
+   "max": 376000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 258000,
+   "max": 376000,
+   "label": "base"
+  },
+  "focus": "both",
+  "jd_file": "data/jd/gh-figma-6237757004.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:gitlab:8921380002",
+  "company": "GitLab",
+  "category": "rails",
+  "title": "Engineering Manager, Architecture Engineering: Async",
+  "location": "Remote, Poland; Remote, United Kingdom",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921380002",
+  "posted": "2026-10-28",
+  "flags": [
+   "on-call rotation",
+   "incident commander"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-gitlab-8921380002.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:toast:8267171",
+  "company": "Toast",
+  "category": "fintech",
+  "title": "Senior Engineering Manager - AI Foundations Team",
+  "location": "Dublin, Ireland",
+  "remote_us": false,
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8267171",
+  "posted": "2026-10-29",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 5,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-toast-8267171.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
  }
 ]

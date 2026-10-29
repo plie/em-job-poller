@@ -1,117 +1,113 @@
 [
  {
-  "id": "gh:affirm:7701909003",
-  "company": "Affirm",
-  "category": "fintech",
-  "title": "Manager, Software Engineering (Resilience Engineering)",
-  "location": "Remote US",
+  "id": "gh:coinbase:8124224",
+  "company": "Coinbase",
+  "category": "rails",
+  "title": "Senior Engineering Manager, Payments Platform",
+  "location": "Remote - USA",
   "remote_us": true,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7701909003",
-  "posted": "2026-10-27",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-affirm-7701909003.md",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:affirm:7701911003",
-  "company": "Affirm",
-  "category": "fintech",
-  "title": "Manager, Software Engineering (Resilience Engineering)",
-  "location": "Remote Canada",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/7701911003",
-  "posted": "2026-10-27",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-affirm-7701911003.md",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:affirm:8043027003",
-  "company": "Affirm",
-  "category": "fintech",
-  "title": "Senior Manager, Software Engineering (Card)",
-  "location": "Remote Spain",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
-  "posted": "2026-10-27",
+  "url": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224",
+  "posted": "2026-10-28",
   "flags": [
-   "On-Call Rotation"
+   "the environment is intense",
+   "not remote-only"
   ],
-  "scope_ok": false,
-  "mgmt_years_required": 2,
-  "scope_reason": "manages managers",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-affirm-8043027003.md",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
- },
- {
-  "id": "gh:affirm:8043029003",
-  "company": "Affirm",
-  "category": "fintech",
-  "title": "Senior Manager, Software Engineering (Card)",
-  "location": "Remote Poland",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8043029003",
-  "posted": "2026-10-27",
-  "flags": [],
   "scope_ok": false,
   "mgmt_years_required": 2,
   "scope_reason": "manages managers",
   "mgmt_years_preferred": null,
   "salary_ranges": [
    {
-    "min": 64000,
-    "max": 96000,
-    "label": ""
+    "min": 253895,
+    "max": 298700,
+    "label": "base"
    }
   ],
   "salary_top": {
-   "min": 64000,
-   "max": 96000,
-   "label": ""
+   "min": 253895,
+   "max": 298700,
+   "label": "base"
   },
   "salary_mine": {
-   "min": 64000,
-   "max": 96000,
-   "label": ""
+   "min": 253895,
+   "max": 298700,
+   "label": "base"
   },
-  "focus": "unspecified",
-  "jd_file": "data/jd/gh-affirm-8043029003.md",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
+  "focus": "backend",
+  "jd_file": "data/jd/gh-coinbase-8124224.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
  },
  {
-  "id": "gh:mindbody:4719250006",
-  "company": "Mindbody",
-  "category": "vertical-saas",
-  "title": "Senior Manager, Software Engineering",
-  "location": "United States",
+  "id": "gh:figma:6237757004",
+  "company": "Figma",
+  "category": "rails",
+  "title": "Manager, Software Engineering - UX Platform",
+  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
   "remote_us": false,
-  "url": "https://www.playlist.com/careers/opportunities/4719250006?gh_jid=4719250006",
-  "posted": "2026-10-27",
+  "url": "https://boards.greenhouse.io/figma/jobs/6237757004?gh_jid=6237757004",
+  "posted": "2026-10-28",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 2,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 258000,
+    "max": 376000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 258000,
+   "max": 376000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 258000,
+   "max": 376000,
+   "label": "base"
+  },
+  "focus": "both",
+  "jd_file": "data/jd/gh-figma-6237757004.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:gitlab:8921380002",
+  "company": "GitLab",
+  "category": "rails",
+  "title": "Engineering Manager, Architecture Engineering: Async",
+  "location": "Remote, Poland; Remote, United Kingdom",
+  "remote_us": false,
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921380002",
+  "posted": "2026-10-28",
+  "flags": [
+   "on-call rotation",
+   "incident commander"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-gitlab-8921380002.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
+ },
+ {
+  "id": "gh:toast:8267171",
+  "company": "Toast",
+  "category": "fintech",
+  "title": "Senior Engineering Manager - AI Foundations Team",
+  "location": "Dublin, Ireland",
+  "remote_us": false,
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8267171",
+  "posted": "2026-10-29",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 5,
@@ -121,8 +117,8 @@
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-mindbody-4719250006.md",
-  "first_seen": "2026-10-28",
-  "last_seen": "2026-10-28"
+  "jd_file": "data/jd/gh-toast-8267171.md",
+  "first_seen": "2026-10-29",
+  "last_seen": "2026-10-29"
  }
 ]

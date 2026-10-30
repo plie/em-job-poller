@@ -1,55 +1,16 @@
 [
  {
-  "id": "gh:coinbase:8124224",
-  "company": "Coinbase",
-  "category": "rails",
-  "title": "Senior Engineering Manager, Payments Platform",
-  "location": "Remote - USA",
-  "remote_us": true,
-  "url": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224",
-  "posted": "2026-10-28",
-  "flags": [
-   "the environment is intense",
-   "not remote-only"
-  ],
-  "scope_ok": false,
-  "mgmt_years_required": 2,
-  "scope_reason": "manages managers",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 253895,
-    "max": 298700,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 253895,
-   "max": 298700,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 253895,
-   "max": 298700,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-coinbase-8124224.md",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
- },
- {
-  "id": "gh:figma:6237757004",
+  "id": "gh:figma:6235282004",
   "company": "Figma",
   "category": "rails",
-  "title": "Manager, Software Engineering - UX Platform",
-  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+  "title": "Manager, Software Engineering - Design Systems Adherence",
+  "location": "New York, NY; San Francisco, CA \u2022 New York, NY \u2022 United States",
   "remote_us": false,
-  "url": "https://boards.greenhouse.io/figma/jobs/6237757004?gh_jid=6237757004",
-  "posted": "2026-10-28",
+  "url": "https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004",
+  "posted": "2026-10-29",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 2,
+  "mgmt_years_required": 3,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [
@@ -69,56 +30,31 @@
    "max": 376000,
    "label": "base"
   },
-  "focus": "both",
-  "jd_file": "data/jd/gh-figma-6237757004.md",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
+  "focus": "frontend/mobile",
+  "jd_file": "data/jd/gh-figma-6235282004.md",
+  "first_seen": "2026-10-30",
+  "last_seen": "2026-10-30"
  },
  {
-  "id": "gh:gitlab:8921380002",
-  "company": "GitLab",
-  "category": "rails",
-  "title": "Engineering Manager, Architecture Engineering: Async",
-  "location": "Remote, Poland; Remote, United Kingdom",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8921380002",
-  "posted": "2026-10-28",
-  "flags": [
-   "on-call rotation",
-   "incident commander"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-gitlab-8921380002.md",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
- },
- {
-  "id": "gh:toast:8267171",
-  "company": "Toast",
+  "id": "gh:stripe:8311735",
+  "company": "Stripe",
   "category": "fintech",
-  "title": "Senior Engineering Manager - AI Foundations Team",
-  "location": "Dublin, Ireland",
+  "title": "Engineering Manager, Terminal Enterprise Features",
+  "location": "Toronto",
   "remote_us": false,
-  "url": "https://careers.toasttab.com/jobs?gh_jid=8267171",
+  "url": "https://stripe.com/jobs/search?gh_jid=8311735",
   "posted": "2026-10-29",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 5,
   "scope_reason": "",
-  "mgmt_years_preferred": null,
+  "mgmt_years_preferred": 5,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-toast-8267171.md",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
+  "jd_file": "data/jd/gh-stripe-8311735.md",
+  "first_seen": "2026-10-30",
+  "last_seen": "2026-10-30"
  }
 ]

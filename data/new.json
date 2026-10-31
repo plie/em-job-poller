@@ -1,60 +1,72 @@
 [
  {
-  "id": "gh:figma:6235282004",
-  "company": "Figma",
-  "category": "rails",
-  "title": "Manager, Software Engineering - Design Systems Adherence",
-  "location": "New York, NY; San Francisco, CA \u2022 New York, NY \u2022 United States",
-  "remote_us": false,
-  "url": "https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004",
-  "posted": "2026-10-29",
-  "flags": [],
+  "id": "gh:toast:8311088",
+  "company": "Toast",
+  "category": "fintech",
+  "title": "Manager, Software Engineering",
+  "location": "Remote, US",
+  "remote_us": true,
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8311088",
+  "posted": "2026-10-30",
+  "flags": [
+   "fast-paced"
+  ],
   "scope_ok": true,
-  "mgmt_years_required": 3,
+  "mgmt_years_required": null,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [
    {
-    "min": 258000,
-    "max": 376000,
-    "label": "base"
+    "min": 193000,
+    "max": 309000,
+    "label": ""
+   },
+   {
+    "min": 168000,
+    "max": 269000,
+    "label": ""
+   },
+   {
+    "min": 151000,
+    "max": 242000,
+    "label": ""
    }
   ],
   "salary_top": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
+   "min": 193000,
+   "max": 309000,
+   "label": ""
   },
   "salary_mine": {
-   "min": 258000,
-   "max": 376000,
-   "label": "base"
+   "min": 168000,
+   "max": 269000,
+   "label": ""
   },
-  "focus": "frontend/mobile",
-  "jd_file": "data/jd/gh-figma-6235282004.md",
-  "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30"
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-toast-8311088.md",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
  },
  {
-  "id": "gh:stripe:8311735",
+  "id": "gh:stripe:8330131",
   "company": "Stripe",
   "category": "fintech",
-  "title": "Engineering Manager, Terminal Enterprise Features",
-  "location": "Toronto",
+  "title": "Engineering Manager, Commerce Systems",
+  "location": "N/A",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8311735",
-  "posted": "2026-10-29",
+  "url": "https://stripe.com/jobs/search?gh_jid=8330131",
+  "posted": "2026-10-30",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 5,
+  "mgmt_years_required": 4,
   "scope_reason": "",
-  "mgmt_years_preferred": 5,
+  "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8311735.md",
-  "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30"
+  "jd_file": "data/jd/gh-stripe-8330131.md",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
  }
 ]

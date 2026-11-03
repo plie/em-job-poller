@@ -1,6 +1,12 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "errors": [
+  {
+   "company": "Included Health",
+   "ats": "lever",
+   "slug": "includedhealth",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
+  },
   {
    "company": "Owner.com",
    "ats": "lever",

@@ -1,52 +1,14 @@
 [
  {
-  "id": "ab:headway:9ef73ae3-ff90-425b-96ef-0f1cb0bfc0c2",
-  "company": "Headway",
-  "category": "vertical-saas",
-  "title": "Senior Engineering Manager (Patient New Verticals)",
-  "location": "Remote",
-  "remote_us": true,
-  "url": "https://jobs.ashbyhq.com/headway/9ef73ae3-ff90-425b-96ef-0f1cb0bfc0c2",
-  "posted": "2026-11-02",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 4,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 265200,
-    "max": 314925,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 265200,
-   "max": 314925,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 265200,
-   "max": 314925,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/ab-headway-9ef73ae3-ff90-425b-96ef-0f1cb0bfc0c2.md",
-  "first_seen": "2026-11-03",
-  "last_seen": "2026-11-03"
- },
- {
-  "id": "gh:stripe:8346417",
-  "company": "Stripe",
+  "id": "gh:toast:8349440",
+  "company": "Toast",
   "category": "fintech",
-  "title": "Engineering Manager, Infrastructure (Privy)",
-  "location": "NYC-Privy",
-  "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8346417",
-  "posted": "2026-11-02",
-  "flags": [
-   "player-coach"
-  ],
+  "title": "Senior Manager, Software Engineering (Android) - POS Payments Experience",
+  "location": "Remote, US",
+  "remote_us": true,
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8349440",
+  "posted": "2026-11-03",
+  "flags": [],
   "scope_ok": true,
   "mgmt_years_required": null,
   "scope_reason": "",
@@ -54,9 +16,31 @@
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8346417.md",
-  "first_seen": "2026-11-03",
-  "last_seen": "2026-11-03"
+  "focus": "frontend/mobile",
+  "jd_file": "data/jd/gh-toast-8349440.md",
+  "first_seen": "2026-11-04",
+  "last_seen": "2026-11-04"
+ },
+ {
+  "id": "gh:toast:8349427",
+  "company": "Toast",
+  "category": "fintech",
+  "title": "Engineering Manager II",
+  "location": "Bangalore, india",
+  "remote_us": false,
+  "url": "https://careers.toasttab.com/jobs?gh_jid=8349427",
+  "posted": "2026-11-03",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 4,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "both",
+  "jd_file": "data/jd/gh-toast-8349427.md",
+  "first_seen": "2026-11-04",
+  "last_seen": "2026-11-04"
  }
 ]

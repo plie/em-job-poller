@@ -1,62 +1,49 @@
 [
  {
-  "id": "gh:alloy:8935003002",
-  "company": "Alloy",
-  "category": "fintech",
-  "title": "Engineering Manager, Data Platform",
-  "location": "New York City",
-  "remote_us": false,
-  "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8935003002&gh_jid=8935003002",
-  "posted": "2026-11-09",
-  "flags": [
-   "player-coach"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 255000,
-    "max": 295000,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 255000,
-   "max": 295000,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 255000,
-   "max": 295000,
-   "label": ""
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-alloy-8935003002.md",
-  "first_seen": "2026-11-10",
-  "last_seen": "2026-11-10"
- },
- {
-  "id": "gh:gitlab:8929723002",
-  "company": "GitLab",
+  "id": "ab:1password:21ed0b81-f2e7-47cf-8f8b-74d2fd2790c1",
+  "company": "1Password",
   "category": "rails",
-  "title": "Engineering Manager, Security Platform: Authentication",
-  "location": "Bangalore, India",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8929723002",
+  "title": "Senior Manager, Infrastructure Security",
+  "location": "Remote (United States | Canada)",
+  "remote_us": true,
+  "url": "https://jobs.ashbyhq.com/1password/21ed0b81-f2e7-47cf-8f8b-74d2fd2790c1",
   "posted": "2026-11-10",
-  "flags": [],
+  "flags": [
+   "fast-paced",
+   "thrive in ambiguity"
+  ],
   "scope_ok": true,
-  "mgmt_years_required": null,
+  "mgmt_years_required": 3,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-gitlab-8929723002.md",
-  "first_seen": "2026-11-10",
-  "last_seen": "2026-11-10"
+  "jd_file": "data/jd/ab-1password-21ed0b81-f2e7-47cf-8f8b-74d2fd2790c1.md",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
+ },
+ {
+  "id": "gh:stripe:8352150",
+  "company": "Stripe",
+  "category": "fintech",
+  "title": "Engineering Manager - Internal Systems Automations Platform",
+  "location": "Bengaluru",
+  "remote_us": false,
+  "url": "https://stripe.com/jobs/search?gh_jid=8352150",
+  "posted": "2026-11-10",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": 5,
+  "scope_reason": "",
+  "mgmt_years_preferred": 5,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-stripe-8352150.md",
+  "first_seen": "2026-11-11",
+  "last_seen": "2026-11-11"
  }
 ]

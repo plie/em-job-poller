@@ -1,39 +1,41 @@
 [
  {
-  "id": "ab:1password:21ed0b81-f2e7-47cf-8f8b-74d2fd2790c1",
-  "company": "1Password",
-  "category": "rails",
-  "title": "Senior Manager, Infrastructure Security",
-  "location": "Remote (United States | Canada)",
-  "remote_us": true,
-  "url": "https://jobs.ashbyhq.com/1password/21ed0b81-f2e7-47cf-8f8b-74d2fd2790c1",
-  "posted": "2026-11-10",
+  "id": "gh:stripe:8350430",
+  "company": "Stripe",
+  "category": "fintech",
+  "title": "Engineering Manager, Adaptive Pricing",
+  "location": "N/A",
+  "remote_us": false,
+  "url": "https://stripe.com/jobs/search?gh_jid=8350430",
+  "posted": "2026-11-11",
   "flags": [
-   "fast-paced",
-   "thrive in ambiguity"
+   "relentless",
+   "fast-paced"
   ],
   "scope_ok": true,
-  "mgmt_years_required": 3,
+  "mgmt_years_required": 4,
   "scope_reason": "",
-  "mgmt_years_preferred": null,
+  "mgmt_years_preferred": 4,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/ab-1password-21ed0b81-f2e7-47cf-8f8b-74d2fd2790c1.md",
-  "first_seen": "2026-11-11",
-  "last_seen": "2026-11-11"
+  "jd_file": "data/jd/gh-stripe-8350430.md",
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12"
  },
  {
-  "id": "gh:stripe:8352150",
+  "id": "gh:stripe:8232858",
   "company": "Stripe",
   "category": "fintech",
-  "title": "Engineering Manager - Internal Systems Automations Platform",
-  "location": "Bengaluru",
+  "title": "Engineering Manager, Local Payment Methods",
+  "location": "N/A",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8352150",
-  "posted": "2026-11-10",
-  "flags": [],
+  "url": "https://stripe.com/jobs/search?gh_jid=8232858",
+  "posted": "2026-11-11",
+  "flags": [
+   "on call rotation"
+  ],
   "scope_ok": true,
   "mgmt_years_required": 5,
   "scope_reason": "",
@@ -42,8 +44,8 @@
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8352150.md",
-  "first_seen": "2026-11-11",
-  "last_seen": "2026-11-11"
+  "jd_file": "data/jd/gh-stripe-8232858.md",
+  "first_seen": "2026-11-12",
+  "last_seen": "2026-11-12"
  }
 ]

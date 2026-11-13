@@ -1,41 +1,54 @@
 [
  {
-  "id": "gh:stripe:8350430",
-  "company": "Stripe",
+  "id": "gh:alloy:8939896002",
+  "company": "Alloy",
   "category": "fintech",
-  "title": "Engineering Manager, Adaptive Pricing",
-  "location": "N/A",
+  "title": "Engineering Manager, Infrastructure",
+  "location": "New York City",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8350430",
-  "posted": "2026-11-11",
+  "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8939896002&gh_jid=8939896002",
+  "posted": "2026-11-12",
   "flags": [
-   "relentless",
-   "fast-paced"
+   "player-coach",
+   "incident triag",
+   "on-call rotation"
   ],
   "scope_ok": true,
-  "mgmt_years_required": 4,
+  "mgmt_years_required": 3,
   "scope_reason": "",
-  "mgmt_years_preferred": 4,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 222000,
+    "max": 280000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 222000,
+   "max": 280000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 222000,
+   "max": 280000,
+   "label": "base"
+  },
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8350430.md",
-  "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "jd_file": "data/jd/gh-alloy-8939896002.md",
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
  },
  {
-  "id": "gh:stripe:8232858",
+  "id": "gh:stripe:8383655",
   "company": "Stripe",
   "category": "fintech",
-  "title": "Engineering Manager, Local Payment Methods",
-  "location": "N/A",
+  "title": "Engineering Manager, Collaboration Engineering",
+  "location": "NYC, San Francisco, Seattle",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8232858",
-  "posted": "2026-11-11",
-  "flags": [
-   "on call rotation"
-  ],
+  "url": "https://stripe.com/jobs/search?gh_jid=8383655",
+  "posted": "2026-11-12",
+  "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 5,
   "scope_reason": "",
@@ -44,8 +57,8 @@
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8232858.md",
-  "first_seen": "2026-11-12",
-  "last_seen": "2026-11-12"
+  "jd_file": "data/jd/gh-stripe-8383655.md",
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
  }
 ]

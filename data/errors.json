@@ -1,6 +1,12 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "errors": [
+  {
+   "company": "Mindbody",
+   "ats": "greenhouse",
+   "slug": "mindbody",
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/mindbody/jobs?content=false"
+  },
   {
    "company": "Owner.com",
    "ats": "lever",

@@ -1,6 +1,30 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "errors": [
+  {
+   "company": "Finix",
+   "ats": "lever",
+   "slug": "finix",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+   "company": "Wealthfront",
+   "ats": "lever",
+   "slug": "wealthfront",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+   "company": "Huckleberry",
+   "ats": "lever",
+   "slug": "Huckleberrylabs",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
+  },
+  {
+   "company": "Included Health",
+   "ats": "lever",
+   "slug": "includedhealth",
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
+  },
   {
    "company": "Mindbody",
    "ats": "greenhouse",
@@ -11,7 +35,7 @@
    "company": "Owner.com",
    "ats": "lever",
    "slug": "owner",
-   "error": "HTTPError: 404 Client Error: Not Found for url: https://api.lever.co/v0/postings/owner?mode=json"
+   "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
   }
  ]
 }

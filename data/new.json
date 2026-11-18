@@ -1,68 +1,101 @@
 [
  {
-  "id": "gh:stripe:8393107",
-  "company": "Stripe",
+  "id": "gh:affirm:8197742003",
+  "company": "Affirm",
   "category": "fintech",
-  "title": "Engineering Manager, Collaboration Engineering",
-  "location": "Seattle",
-  "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8393107",
-  "posted": "2026-11-16",
+  "title": "Manager, Software Engineering (Code Standards)",
+  "location": "Remote US",
+  "remote_us": true,
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197742003",
+  "posted": "2026-11-17",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 5,
+  "mgmt_years_required": 2,
   "scope_reason": "",
-  "mgmt_years_preferred": 5,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 230000,
+    "max": 290000,
+    "label": "base"
+   },
+   {
+    "min": 204000,
+    "max": 264000,
+    "label": "base"
+   }
+  ],
+  "salary_top": {
+   "min": 230000,
+   "max": 290000,
+   "label": "base"
+  },
+  "salary_mine": {
+   "min": 204000,
+   "max": 264000,
+   "label": "base"
+  },
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8393107.md",
-  "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "jd_file": "data/jd/gh-affirm-8197742003.md",
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18"
  },
  {
-  "id": "gh:stripe:8386610",
-  "company": "Stripe",
+  "id": "gh:affirm:8197744003",
+  "company": "Affirm",
   "category": "fintech",
-  "title": "Engineering Manager, Core Infrastructure",
-  "location": "Bengaluru",
+  "title": "Manager, Software Engineering (Code Standards)",
+  "location": "Remote Canada",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8386610",
-  "posted": "2026-11-16",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197744003",
+  "posted": "2026-11-17",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 4,
+  "mgmt_years_required": 2,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8386610.md",
-  "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "jd_file": "data/jd/gh-affirm-8197744003.md",
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18"
  },
  {
-  "id": "gh:stripe:8383460",
-  "company": "Stripe",
+  "id": "gh:alloy:8626476002",
+  "company": "Alloy",
   "category": "fintech",
-  "title": "Engineering Manager, Tax Filing and Remittance",
-  "location": "N/A",
+  "title": "Engineering Manager, Developer Experience",
+  "location": "New York City",
   "remote_us": false,
-  "url": "https://stripe.com/jobs/search?gh_jid=8383460",
-  "posted": "2026-11-16",
+  "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8626476002&gh_jid=8626476002",
+  "posted": "2026-11-17",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": null,
+  "mgmt_years_required": 3,
   "scope_reason": "",
   "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
+  "salary_ranges": [
+   {
+    "min": 222000,
+    "max": 285000,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 222000,
+   "max": 285000,
+   "label": ""
+  },
+  "salary_mine": {
+   "min": 222000,
+   "max": 285000,
+   "label": ""
+  },
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8383460.md",
-  "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17"
+  "jd_file": "data/jd/gh-alloy-8626476002.md",
+  "first_seen": "2026-11-18",
+  "last_seen": "2026-11-18"
  }
 ]

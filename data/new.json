@@ -1,101 +1,68 @@
 [
  {
-  "id": "gh:affirm:8197742003",
-  "company": "Affirm",
-  "category": "fintech",
-  "title": "Manager, Software Engineering (Code Standards)",
-  "location": "Remote US",
+  "id": "gh:gitlab:8478405002",
+  "company": "GitLab",
+  "category": "rails",
+  "title": "Engineering Manager, SSCS: Supply Chain",
+  "location": "Bangalore, India; Remote Ireland; Remote, Canada; Remote, Israel; Remote, United Kingdom; Remote, United States",
   "remote_us": true,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197742003",
-  "posted": "2026-11-17",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8478405002",
+  "posted": "2026-11-19",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 2,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 230000,
-    "max": 290000,
-    "label": "base"
-   },
-   {
-    "min": 204000,
-    "max": 264000,
-    "label": "base"
-   }
-  ],
-  "salary_top": {
-   "min": 230000,
-   "max": 290000,
-   "label": "base"
-  },
-  "salary_mine": {
-   "min": 204000,
-   "max": 264000,
-   "label": "base"
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-affirm-8197742003.md",
-  "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18"
- },
- {
-  "id": "gh:affirm:8197744003",
-  "company": "Affirm",
-  "category": "fintech",
-  "title": "Manager, Software Engineering (Code Standards)",
-  "location": "Remote Canada",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/affirm/jobs/8197744003",
-  "posted": "2026-11-17",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": 2,
+  "mgmt_years_required": null,
   "scope_reason": "",
   "mgmt_years_preferred": null,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-affirm-8197744003.md",
-  "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18"
+  "jd_file": "data/jd/gh-gitlab-8478405002.md",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19"
  },
  {
-  "id": "gh:alloy:8626476002",
-  "company": "Alloy",
+  "id": "gh:affirm:8199288003",
+  "company": "Affirm",
   "category": "fintech",
-  "title": "Engineering Manager, Developer Experience",
-  "location": "New York City",
+  "title": "Manager, Software Engineering",
+  "location": "Remote UK",
   "remote_us": false,
-  "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8626476002&gh_jid=8626476002",
-  "posted": "2026-11-17",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8199288003",
+  "posted": "2026-11-18",
   "flags": [],
   "scope_ok": true,
-  "mgmt_years_required": 3,
+  "mgmt_years_required": 4,
   "scope_reason": "",
   "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 222000,
-    "max": 285000,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 222000,
-   "max": 285000,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 222000,
-   "max": 285000,
-   "label": ""
-  },
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "unspecified",
+  "jd_file": "data/jd/gh-affirm-8199288003.md",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19"
+ },
+ {
+  "id": "gh:stripe:8383464",
+  "company": "Stripe",
+  "category": "fintech",
+  "title": "Engineering Manager, Security",
+  "location": "New York, New York; Seattle; San Francisco",
+  "remote_us": false,
+  "url": "https://stripe.com/jobs/search?gh_jid=8383464",
+  "posted": "2026-11-18",
+  "flags": [],
+  "scope_ok": true,
+  "mgmt_years_required": null,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-alloy-8626476002.md",
-  "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18"
+  "jd_file": "data/jd/gh-stripe-8383464.md",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19"
  }
 ]

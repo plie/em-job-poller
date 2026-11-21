@@ -1,84 +1,48 @@
 [
  {
-  "id": "gh:counterpart:4755861005",
-  "company": "Counterpart",
-  "category": "insurtech",
-  "title": "Financial Data Manager",
-  "location": "Remote (United States)",
-  "remote_us": true,
-  "url": "https://job-boards.greenhouse.io/counterpart/jobs/4755861005",
-  "posted": "2026-11-19",
+  "id": "gh:chime:8609159002",
+  "company": "Chime",
+  "category": "rails",
+  "title": "Tech Lead Manager, Cards",
+  "location": "San Francisco, CA, USA",
+  "remote_us": false,
+  "url": "https://boards.greenhouse.io/chime/jobs/8609159002?gh_jid=8609159002",
+  "posted": "2026-11-20",
+  "flags": [
+   "hustle"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": 2,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [],
+  "salary_top": null,
+  "salary_mine": null,
+  "focus": "backend",
+  "jd_file": "data/jd/gh-chime-8609159002.md",
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-21"
+ },
+ {
+  "id": "ab:headway:786419c2-7602-47c5-b1c2-b4f61c96476e",
+  "company": "Headway",
+  "category": "vertical-saas",
+  "title": "Senior Engineering Manager - Group Practices",
+  "location": "San Francisco, CA",
+  "remote_us": false,
+  "url": "https://jobs.ashbyhq.com/headway/786419c2-7602-47c5-b1c2-b4f61c96476e",
+  "posted": "2026-11-20",
   "flags": [],
   "scope_ok": true,
   "mgmt_years_required": 5,
   "scope_reason": "",
   "mgmt_years_preferred": null,
-  "salary_ranges": [
-   {
-    "min": 150000,
-    "max": 180000,
-    "label": ""
-   }
-  ],
-  "salary_top": {
-   "min": 150000,
-   "max": 180000,
-   "label": ""
-  },
-  "salary_mine": {
-   "min": 150000,
-   "max": 180000,
-   "label": ""
-  },
-  "focus": "backend",
-  "jd_file": "data/jd/gh-counterpart-4755861005.md",
-  "first_seen": "2026-11-20",
-  "last_seen": "2026-11-20"
- },
- {
-  "id": "gh:stripe:8317310",
-  "company": "Stripe",
-  "category": "fintech",
-  "title": "Engineering Manager, Stream Analytics",
-  "location": "US-Remote",
-  "remote_us": true,
-  "url": "https://stripe.com/jobs/search?gh_jid=8317310",
-  "posted": "2026-11-19",
-  "flags": [
-   "fast-paced"
-  ],
-  "scope_ok": true,
-  "mgmt_years_required": 4,
-  "scope_reason": "",
-  "mgmt_years_preferred": 4,
   "salary_ranges": [],
   "salary_top": null,
   "salary_mine": null,
   "focus": "backend",
-  "jd_file": "data/jd/gh-stripe-8317310.md",
-  "first_seen": "2026-11-20",
-  "last_seen": "2026-11-20"
- },
- {
-  "id": "gh:addepar1:8617386002",
-  "company": "Addepar",
-  "category": "fintech",
-  "title": "Software Engineering Manager(Backend)",
-  "location": "Pune, India",
-  "remote_us": false,
-  "url": "https://job-boards.greenhouse.io/addepar1/jobs/8617386002",
-  "posted": "2026-11-20",
-  "flags": [],
-  "scope_ok": true,
-  "mgmt_years_required": null,
-  "scope_reason": "",
-  "mgmt_years_preferred": null,
-  "salary_ranges": [],
-  "salary_top": null,
-  "salary_mine": null,
-  "focus": "backend",
-  "jd_file": "data/jd/gh-addepar1-8617386002.md",
-  "first_seen": "2026-11-20",
-  "last_seen": "2026-11-20"
+  "jd_file": "data/jd/ab-headway-786419c2-7602-47c5-b1c2-b4f61c96476e.md",
+  "first_seen": "2026-11-21",
+  "last_seen": "2026-11-21"
  }
 ]

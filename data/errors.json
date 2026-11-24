@@ -1,10 +1,10 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "errors": [
   {
-   "company": "Finix",
+   "company": "Included Health",
    "ats": "lever",
-   "slug": "finix",
+   "slug": "includedhealth",
    "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=20)"
   },
   {

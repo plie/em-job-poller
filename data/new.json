@@ -1,1 +1,40 @@
-[]
+[
+ {
+  "id": "gh:lithic:6271487004",
+  "company": "Lithic",
+  "category": "fintech",
+  "title": "Engineering Manager, Analytics",
+  "location": "Remote",
+  "remote_us": true,
+  "url": "https://job-boards.greenhouse.io/lithic/jobs/6271487004",
+  "posted": "2026-11-25",
+  "flags": [
+   "player-coach"
+  ],
+  "scope_ok": true,
+  "mgmt_years_required": 3,
+  "scope_reason": "",
+  "mgmt_years_preferred": null,
+  "salary_ranges": [
+   {
+    "min": 169000,
+    "max": 265000,
+    "label": ""
+   }
+  ],
+  "salary_top": {
+   "min": 169000,
+   "max": 265000,
+   "label": ""
+  },
+  "salary_mine": {
+   "min": 169000,
+   "max": 265000,
+   "label": ""
+  },
+  "focus": "backend",
+  "jd_file": "data/jd/gh-lithic-6271487004.md",
+  "first_seen": "2026-11-26",
+  "last_seen": "2026-11-26"
+ }
+]
